@@ -1,0 +1,690 @@
+H_Team,A_Team,Home_Score,Away_Score,Score,Matchweek,date,competition,season,H_Team_MQS,A_Team_MQS,MQS
+Dynamo Kyiv,Juventus,0,2,0 - 2,UEFA Champions League (Group stage),2020-10-20,UEFA Champions League,2020-2021,34.22615120728328,59.18326956062805,46.704710383955664
+Zenit,Club Brugge,1,2,1 - 2,UEFA Champions League (Group stage),2020-10-20,UEFA Champions League,2020-2021,54.756564190526454,64.27628974798786,59.516426969257154
+Chelsea,Sevilla,0,0,0 - 0,UEFA Champions League (Group stage),2020-10-20,UEFA Champions League,2020-2021,41.67436337247658,30.478955007256896,36.07665918986674
+RB Leipzig,İstanbul Başakşehir,2,0,2 - 0,UEFA Champions League (Group stage),2020-10-20,UEFA Champions League,2020-2021,54.43989972291859,45.01913181158464,49.72951576725161
+Barcelona,Ferencváros,5,1,5 - 1,UEFA Champions League (Group stage),2020-10-20,UEFA Champions League,2020-2021,78.96820160971104,37.56432246998285,58.26626203984695
+Lazio,Dortmund,3,1,3 - 1,UEFA Champions League (Group stage),2020-10-20,UEFA Champions League,2020-2021,53.86594537537934,57.14474205040243,55.505343712890884
+Paris Saint-Germain,Manchester United,1,2,1 - 2,UEFA Champions League (Group stage),2020-10-20,UEFA Champions League,2020-2021,61.90790341733738,59.156880854994064,60.532392136165726
+Rennes,Krasnodar,1,1,1 - 1,UEFA Champions League (Group stage),2020-10-20,UEFA Champions League,2020-2021,64.83045256630163,37.69626599815279,51.26335928222721
+Red Bull Salzburg,Lokomotiv Moscow,2,2,2 - 2,UEFA Champions League (Group stage),2020-10-21,UEFA Champions League,2020-2021,76.54703786779258,55.23815806834675,65.89259796806967
+Real Madrid,Shakhtar Donetsk,2,3,2 - 3,UEFA Champions League (Group stage),2020-10-21,UEFA Champions League,2020-2021,63.87386198706953,58.358622509565905,61.11624224831772
+Manchester City,Porto,3,1,3 - 1,UEFA Champions League (Group stage),2020-10-21,UEFA Champions League,2020-2021,47.55904472885605,24.30399788890355,35.9315213088798
+Internazionale,Mönchengladbach,2,2,2 - 2,UEFA Champions League (Group stage),2020-10-21,UEFA Champions League,2020-2021,73.95434753925319,54.9017020715134,64.4280248053833
+Bayern Munich,Atlético Madrid,4,0,4 - 0,UEFA Champions League (Group stage),2020-10-21,UEFA Champions League,2020-2021,70.31930333817127,42.16255442670537,56.24092888243832
+Ajax,Liverpool,0,1,0 - 1,UEFA Champions League (Group stage),2020-10-21,UEFA Champions League,2020-2021,59.123894972951575,61.221797070853675,60.17284602190263
+Midtjylland,Atalanta,0,4,0 - 4,UEFA Champions League (Group stage),2020-10-21,UEFA Champions League,2020-2021,48.32431719224172,68.51827417865154,58.42129568544663
+Olympiacos,Marseille,1,0,1 - 0,UEFA Champions League (Group stage),2020-10-21,UEFA Champions League,2020-2021,45.777807098561816,47.47328143554559,46.6255442670537
+Shakhtar Donetsk,Internazionale,0,0,0 - 0,UEFA Champions League (Group stage),2020-10-27,UEFA Champions League,2020-2021,30.14249901042354,56.70932840744162,43.425913708932576
+Porto,Olympiacos,2,0,2 - 0,UEFA Champions League (Group stage),2020-10-27,UEFA Champions League,2020-2021,58.985354268373136,41.746932312970046,50.36614329067159
+Liverpool,Midtjylland,2,0,2 - 0,UEFA Champions League (Group stage),2020-10-27,UEFA Champions League,2020-2021,51.946167040506666,37.08932576857105,44.517746404538855
+Lokomotiv Moscow,Bayern Munich,1,2,1 - 2,UEFA Champions League (Group stage),2020-10-27,UEFA Champions League,2020-2021,54.49927431059507,70.22034569204381,62.35981000131944
+Atlético Madrid,Red Bull Salzburg,3,2,3 - 2,UEFA Champions League (Group stage),2020-10-27,UEFA Champions League,2020-2021,80.9077714738092,51.45797598627787,66.18287373004354
+Atalanta,Ajax,2,2,2 - 2,UEFA Champions League (Group stage),2020-10-27,UEFA Champions League,2020-2021,78.01820820688745,65.28565773848793,71.65193297268769
+Marseille,Manchester City,0,3,0 - 3,UEFA Champions League (Group stage),2020-10-27,UEFA Champions League,2020-2021,26.434885868848134,49.287504947882304,37.86119540836522
+Mönchengladbach,Real Madrid,2,2,2 - 2,UEFA Champions League (Group stage),2020-10-27,UEFA Champions League,2020-2021,59.27563003034701,75.39253199630558,67.3340810133263
+Manchester United,RB Leipzig,5,0,5 - 0,UEFA Champions League (Group stage),2020-10-28,UEFA Champions League,2020-2021,66.87557725293574,37.438976118221404,52.15727668557857
+Krasnodar,Chelsea,0,4,0 - 4,UEFA Champions League (Group stage),2020-10-28,UEFA Champions League,2020-2021,46.345164269692575,54.189207019395695,50.267185644544135
+İstanbul Başakşehir,Paris Saint-Germain,0,2,0 - 2,UEFA Champions League (Group stage),2020-10-28,UEFA Champions League,2020-2021,60.687425781765405,74.1654571843251,67.42644148304525
+Juventus,Barcelona,0,2,0 - 2,UEFA Champions League (Group stage),2020-10-28,UEFA Champions League,2020-2021,48.79931389365352,64.58635703918723,56.69283546642038
+Club Brugge,Lazio,1,1,1 - 1,UEFA Champions League (Group stage),2020-10-28,UEFA Champions League,2020-2021,58.35202533315741,43.640321942208736,50.99617363768307
+Ferencváros,Dynamo Kyiv,2,2,2 - 2,UEFA Champions League (Group stage),2020-10-28,UEFA Champions League,2020-2021,46.477107797862516,33.86330650481594,40.17020715133923
+Dortmund,Zenit,2,0,2 - 0,UEFA Champions League (Group stage),2020-10-28,UEFA Champions League,2020-2021,59.94194484760522,31.93033381712627,45.93613933236575
+Sevilla,Rennes,1,0,1 - 0,UEFA Champions League (Group stage),2020-10-28,UEFA Champions League,2020-2021,68.26758147512864,21.599155561419714,44.93336851827418
+Shakhtar Donetsk,Mönchengladbach,0,6,0 - 6,UEFA Champions League (Group stage),2020-11-03,UEFA Champions League,2020-2021,31.67304393719488,60.23881778598759,45.955930861591234
+Porto,Marseille,3,0,3 - 0,UEFA Champions League (Group stage),2020-11-03,UEFA Champions League,2020-2021,49.14236706689537,31.60707217310991,40.37471962000264
+Manchester City,Olympiacos,3,0,3 - 0,UEFA Champions League (Group stage),2020-11-03,UEFA Champions League,2020-2021,64.90961868320359,37.01675682807758,50.96318775564059
+Lokomotiv Moscow,Atlético Madrid,1,1,1 - 1,UEFA Champions League (Group stage),2020-11-03,UEFA Champions League,2020-2021,20.58319039451115,56.960021110964504,38.77160575273783
+Midtjylland,Ajax,1,2,1 - 2,UEFA Champions League (Group stage),2020-11-03,UEFA Champions League,2020-2021,49.5316004749967,47.644808022166515,48.588204248581604
+Red Bull Salzburg,Bayern Munich,2,6,2 - 6,UEFA Champions League (Group stage),2020-11-03,UEFA Champions League,2020-2021,69.9960416941549,83.53344768439108,76.76474468927299
+Atalanta,Liverpool,0,5,0 - 5,UEFA Champions League (Group stage),2020-11-03,UEFA Champions League,2020-2021,49.47222588732023,69.38910146457316,59.43066367594669
+Real Madrid,Internazionale,3,2,3 - 2,UEFA Champions League (Group stage),2020-11-03,UEFA Champions League,2020-2021,59.13708932576857,44.22087346615648,51.67898139596252
+Chelsea,Rennes,3,0,3 - 0,UEFA Champions League (Group stage),2020-11-04,UEFA Champions League,2020-2021,54.76316136693495,27.365087742446235,41.06412455469059
+İstanbul Başakşehir,Manchester United,2,1,2 - 1,UEFA Champions League (Group stage),2020-11-04,UEFA Champions League,2020-2021,45.25663016229054,49.590975062673174,47.42380261248186
+Zenit,Lazio,1,1,1 - 1,UEFA Champions League (Group stage),2020-11-04,UEFA Champions League,2020-2021,47.14342261512073,51.53054492677134,49.336983770946034
+Ferencváros,Juventus,1,4,1 - 4,UEFA Champions League (Group stage),2020-11-04,UEFA Champions League,2020-2021,40.843119145005936,62.61380129304658,51.72846021902626
+Club Brugge,Dortmund,0,3,0 - 3,UEFA Champions League (Group stage),2020-11-04,UEFA Champions League,2020-2021,49.650349650349646,61.591238949729515,55.62079430003958
+Barcelona,Dynamo Kyiv,2,1,2 - 1,UEFA Champions League (Group stage),2020-11-04,UEFA Champions League,2020-2021,71.6387386198707,63.359282227206755,67.49901042353872
+Sevilla,Krasnodar,3,2,3 - 2,UEFA Champions League (Group stage),2020-11-04,UEFA Champions League,2020-2021,69.784932049083,47.136825438712236,58.46087874389762
+RB Leipzig,Paris Saint-Germain,2,1,2 - 1,UEFA Champions League (Group stage),2020-11-04,UEFA Champions League,2020-2021,59.20306108985354,43.75907111756168,51.48106610370761
+Rennes,Chelsea,1,2,1 - 2,UEFA Champions League (Group stage),2020-11-24,UEFA Champions League,2020-2021,50.38923340810133,62.25095659057923,56.320094999340284
+Manchester United,İstanbul Başakşehir,4,1,4 - 1,UEFA Champions League (Group stage),2020-11-24,UEFA Champions League,2020-2021,68.43910806174956,53.92531996305581,61.18221401240269
+Krasnodar,Sevilla,1,2,1 - 2,UEFA Champions League (Group stage),2020-11-24,UEFA Champions League,2020-2021,60.548885077186966,65.43079561947486,62.989840348330915
+Dortmund,Club Brugge,3,0,3 - 0,UEFA Champions League (Group stage),2020-11-24,UEFA Champions League,2020-2021,69.03945111492281,32.200818049874655,50.620134582398734
+Juventus,Ferencváros,2,1,2 - 1,UEFA Champions League (Group stage),2020-11-24,UEFA Champions League,2020-2021,71.1505475656419,36.21190130624093,53.68122443594142
+Paris Saint-Germain,RB Leipzig,1,0,1 - 0,UEFA Champions League (Group stage),2020-11-24,UEFA Champions League,2020-2021,44.63649557989181,64.85024409552712,54.743369837709466
+Lazio,Zenit,3,1,3 - 1,UEFA Champions League (Group stage),2020-11-24,UEFA Champions League,2020-2021,66.82939701807626,54.38052513524212,60.604961076659194
+Dynamo Kyiv,Barcelona,0,4,0 - 4,UEFA Champions League (Group stage),2020-11-24,UEFA Champions League,2020-2021,46.83335532392136,74.32378941812904,60.5785723710252
+Mönchengladbach,Shakhtar Donetsk,4,0,4 - 0,UEFA Champions League (Group stage),2020-11-25,UEFA Champions League,2020-2021,72.40401108325636,50.34305317324185,61.37353212824911
+Olympiacos,Manchester City,0,1,0 - 1,UEFA Champions League (Group stage),2020-11-25,UEFA Champions League,2020-2021,28.717508906188154,77.85327879667503,53.28539385143159
+Liverpool,Atalanta,0,2,0 - 2,UEFA Champions League (Group stage),2020-11-25,UEFA Champions League,2020-2021,36.970576593218105,59.95513920042222,48.46285789682016
+Ajax,Midtjylland,3,1,3 - 1,UEFA Champions League (Group stage),2020-11-25,UEFA Champions League,2020-2021,75.09565905792321,37.26744953160048,56.181554294761845
+Internazionale,Real Madrid,0,2,0 - 2,UEFA Champions League (Group stage),2020-11-25,UEFA Champions League,2020-2021,30.445969125214408,59.895764612745744,45.17086686898008
+Marseille,Porto,0,2,0 - 2,UEFA Champions League (Group stage),2020-11-25,UEFA Champions League,2020-2021,48.23195672252276,47.43369837709461,47.832827549808684
+Atlético Madrid,Lokomotiv Moscow,0,0,0 - 0,UEFA Champions League (Group stage),2020-11-25,UEFA Champions League,2020-2021,65.20649162158597,36.17891542419844,50.6927035228922
+Bayern Munich,Red Bull Salzburg,3,1,3 - 1,UEFA Champions League (Group stage),2020-11-25,UEFA Champions League,2020-2021,51.86700092360469,71.60575273782821,61.73637683071645
+Shakhtar Donetsk,Real Madrid,2,0,2 - 0,UEFA Champions League (Group stage),2020-12-01,UEFA Champions League,2020-2021,52.03193033381713,60.56867660641246,56.3003034701148
+Liverpool,Ajax,1,0,1 - 0,UEFA Champions League (Group stage),2020-12-01,UEFA Champions League,2020-2021,57.92980604301359,57.33606016624884,57.63293310463122
+Porto,Manchester City,0,0,0 - 0,UEFA Champions League (Group stage),2020-12-01,UEFA Champions League,2020-2021,27.95223644280248,64.35545586488983,46.15384615384616
+Lokomotiv Moscow,Red Bull Salzburg,1,3,1 - 3,UEFA Champions League (Group stage),2020-12-01,UEFA Champions League,2020-2021,46.806966618287376,73.4727536614329,60.13986013986014
+Mönchengladbach,Internazionale,2,3,2 - 3,UEFA Champions League (Group stage),2020-12-01,UEFA Champions League,2020-2021,58.714870035624756,51.89998680564718,55.30742842063597
+Marseille,Olympiacos,2,1,2 - 1,UEFA Champions League (Group stage),2020-12-01,UEFA Champions League,2020-2021,42.644148304525665,22.99775696002111,32.82095263227339
+Atalanta,Midtjylland,1,1,1 - 1,UEFA Champions League (Group stage),2020-12-01,UEFA Champions League,2020-2021,71.90922285261908,48.12640189998681,60.01781237630294
+Atlético Madrid,Bayern Munich,1,1,1 - 1,UEFA Champions League (Group stage),2020-12-01,UEFA Champions League,2020-2021,54.756564190526454,42.65074548093416,48.703654835730305
+Manchester United,Paris Saint-Germain,1,3,1 - 3,UEFA Champions League (Group stage),2020-12-02,UEFA Champions League,2020-2021,53.562475260588464,67.04710383955667,60.30478955007257
+Krasnodar,Rennes,1,0,1 - 0,UEFA Champions League (Group stage),2020-12-02,UEFA Champions League,2020-2021,51.385407045784405,46.89272991159783,49.139068478691115
+İstanbul Başakşehir,RB Leipzig,3,4,3 - 4,UEFA Champions League (Group stage),2020-12-02,UEFA Champions League,2020-2021,40.56603773584906,78.32827549808682,59.447156616967945
+Juventus,Dynamo Kyiv,3,0,3 - 0,UEFA Champions League (Group stage),2020-12-02,UEFA Champions League,2020-2021,78.88243831640058,38.144873993930595,58.51365615516559
+Dortmund,Lazio,1,1,1 - 1,UEFA Champions League (Group stage),2020-12-02,UEFA Champions League,2020-2021,56.946826758147516,55.53503100672912,56.24092888243832
+Club Brugge,Zenit,3,0,3 - 0,UEFA Champions League (Group stage),2020-12-02,UEFA Champions League,2020-2021,60.11347143422615,31.132075471698112,45.62277345296213
+Ferencváros,Barcelona,0,3,0 - 3,UEFA Champions League (Group stage),2020-12-02,UEFA Champions League,2020-2021,41.410476316136695,76.21058187095923,58.81052909354796
+Sevilla,Chelsea,0,4,0 - 4,UEFA Champions League (Group stage),2020-12-02,UEFA Champions League,2020-2021,38.32299775696002,69.3099353476712,53.81646655231561
+Lazio,Club Brugge,2,2,2 - 2,UEFA Champions League (Group stage),2020-12-08,UEFA Champions League,2020-2021,61.782557065575936,43.66671064784273,52.72463385670933
+Chelsea,Krasnodar,1,1,1 - 1,UEFA Champions League (Group stage),2020-12-08,UEFA Champions League,2020-2021,62.73914764480802,31.547697585433436,47.14342261512073
+Zenit,Dortmund,1,2,1 - 2,UEFA Champions League (Group stage),2020-12-08,UEFA Champions League,2020-2021,58.64889827153978,65.60232220609579,62.125610238817785
+RB Leipzig,Manchester United,3,2,3 - 2,UEFA Champions League (Group stage),2020-12-08,UEFA Champions League,2020-2021,53.43712890882702,61.43290671592558,57.4350178123763
+Barcelona,Juventus,0,3,0 - 3,UEFA Champions League (Group stage),2020-12-08,UEFA Champions League,2020-2021,68.87452170471039,52.96872938382372,60.92162554426706
+Rennes,Sevilla,1,3,1 - 3,UEFA Champions League (Group stage),2020-12-08,UEFA Champions League,2020-2021,65.94537537933765,45.66565509961736,55.8055152394775
+Dynamo Kyiv,Ferencváros,1,0,1 - 0,UEFA Champions League (Group stage),2020-12-08,UEFA Champions League,2020-2021,33.97545850376039,34.008444385802875,33.991951444781634
+Paris Saint-Germain,İstanbul Başakşehir,5,1,5 - 1,UEFA Champions League (Group stage),2020-12-09,UEFA Champions League,2020-2021,72.86581343185117,46.06148568412719,59.46364955798918
+Midtjylland,Liverpool,1,1,1 - 1,UEFA Champions League (Group stage),2020-12-09,UEFA Champions League,2020-2021,61.98047235783085,29.377226547037868,45.678849452434356
+Ajax,Atalanta,0,1,0 - 1,UEFA Champions League (Group stage),2020-12-09,UEFA Champions League,2020-2021,49.41285129964375,50.12534635176144,49.7690988257026
+Manchester City,Marseille,3,0,3 - 0,UEFA Champions League (Group stage),2020-12-09,UEFA Champions League,2020-2021,63.60337775432115,32.99247921889432,48.29792848660773
+Internazionale,Shakhtar Donetsk,0,0,0 - 0,UEFA Champions League (Group stage),2020-12-09,UEFA Champions League,2020-2021,54.387122311650614,32.37894181290408,43.38303206227735
+Real Madrid,Mönchengladbach,2,0,2 - 0,UEFA Champions League (Group stage),2020-12-09,UEFA Champions League,2020-2021,67.02071513392268,39.95250032985882,53.48660773189075
+Bayern Munich,Lokomotiv Moscow,2,0,2 - 0,UEFA Champions League (Group stage),2020-12-09,UEFA Champions League,2020-2021,76.44808022166512,36.172318247789946,56.310199234727534
+Red Bull Salzburg,Atlético Madrid,0,2,0 - 2,UEFA Champions League (Group stage),2020-12-09,UEFA Champions League,2020-2021,59.20306108985354,47.413906847869114,53.308483968861324
+Olympiacos,Porto,0,2,0 - 2,UEFA Champions League (Group stage),2020-12-09,UEFA Champions League,2020-2021,34.912257553766985,36.32405330518538,35.61815542947618
+Barcelona,Paris Saint-Germain,1,4,1 - 4,"UEFA Champions League (Round of 16), Leg 1 of 2Aggregate: Barcelona 2:5 Paris S-GParis S-G won on aggregate score over two legs(Leg 2: Paris S-G 1:1 Barcelona)",2021-02-16,UEFA Champions League,2020-2021,52.59928750494788,78.44042749703127,65.51985750098957
+RB Leipzig,Liverpool,0,2,0 - 2,"UEFA Champions League (Round of 16), Leg 1 of 2Aggregate: RB Leipzig 0:4 LiverpoolLiverpool won on aggregate score over two legs(Leg 2: Liverpool 2:0 RB Leipzig)",2021-02-16,UEFA Champions League,2020-2021,46.14065180102916,55.178783480670276,50.65971764084972
+Porto,Juventus,2,1,2 - 1,"UEFA Champions League (Round of 16), Leg 1 of 2Aggregate: Porto 4:4 JuventusPorto won on away goals, after aggregate score was tied(Leg 2: Juventus 3:2 Porto)",2021-02-17,UEFA Champions League,2020-2021,43.30386594537538,53.66143290671592,48.482649426045654
+Sevilla,Dortmund,2,3,2 - 3,"UEFA Champions League (Round of 16), Leg 1 of 2Aggregate: Sevilla 4:5 DortmundDortmund won on aggregate score over two legs(Leg 2: Dortmund 2:2 Sevilla)",2021-02-17,UEFA Champions League,2020-2021,56.16176276553635,56.64335664335664,56.402559704446496
+Lazio,Bayern Munich,1,4,1 - 4,"UEFA Champions League (Round of 16), Leg 1 of 2Aggregate: Lazio 2:6 Bayern MunichBayern Munich won on aggregate score over two legs(Leg 2: Bayern Munich 2:1 Lazio)",2021-02-23,UEFA Champions League,2020-2021,60.01451378809869,75.5640585829265,67.7892861855126
+Atlético Madrid,Chelsea,0,1,0 - 1,"UEFA Champions League (Round of 16), Leg 1 of 2Aggregate: Atlético Madrid 0:3 ChelseaChelsea won on aggregate score over two legs(Leg 2: Chelsea 2:0 Atlético Madrid)",2021-02-23,UEFA Champions League,2020-2021,33.34872674495316,58.77424462330123,46.06148568412719
+Atalanta,Real Madrid,0,1,0 - 1,"UEFA Champions League (Round of 16), Leg 1 of 2Aggregate: Atalanta 1:4 Real MadridReal Madrid won on aggregate score over two legs(Leg 2: Real Madrid 3:1 Atalanta)",2021-02-24,UEFA Champions League,2020-2021,33.42129568544662,73.62448871882835,53.522892202137484
+Mönchengladbach,Manchester City,0,2,0 - 2,"UEFA Champions League (Round of 16), Leg 1 of 2Aggregate: Gladbach 0:4 Manchester CityManchester City won on aggregate score over two legs(Leg 2: Manchester City 2:0 Gladbach)",2021-02-24,UEFA Champions League,2020-2021,26.68557857237103,59.651669085631355,43.16862382900119
+Juventus,Porto,3,2,3 - 2,"UEFA Champions League (Round of 16), Leg 2 of 2Aggregate: Juventus 4:4 PortoPorto won on away goals, after aggregate score was tied(Leg 1: Porto 2:1 Juventus)",2021-03-09,UEFA Champions League,2020-2021,80.4459691252144,65.31204644412192,72.87900778466816
+Dortmund,Sevilla,2,2,2 - 2,"UEFA Champions League (Round of 16), Leg 2 of 2Aggregate: Dortmund 5:4 SevillaDortmund won on aggregate score over two legs(Leg 1: Sevilla 2:3 Dortmund)",2021-03-09,UEFA Champions League,2020-2021,55.64058582926507,59.40097638210846,57.520781105686765
+Liverpool,RB Leipzig,2,0,2 - 0,"UEFA Champions League (Round of 16), Leg 2 of 2Aggregate: Liverpool 4:0 RB LeipzigLiverpool won on aggregate score over two legs(Leg 1: RB Leipzig 0:2 Liverpool)",2021-03-10,UEFA Champions League,2020-2021,70.62277345296214,44.49795487531337,57.56036416413775
+Paris Saint-Germain,Barcelona,1,1,1 - 1,"UEFA Champions League (Round of 16), Leg 2 of 2Aggregate: Paris S-G 5:2 BarcelonaParis S-G won on aggregate score over two legs(Leg 1: Barcelona 1:4 Paris S-G)",2021-03-10,UEFA Champions League,2020-2021,52.06491621585961,70.79430003958306,61.42960812772134
+Manchester City,Mönchengladbach,2,0,2 - 0,"UEFA Champions League (Round of 16), Leg 2 of 2Aggregate: Manchester City 4:0 GladbachManchester City won on aggregate score over two legs(Leg 1: Gladbach 0:2 Manchester City)",2021-03-16,UEFA Champions League,2020-2021,58.127721335268504,28.037999736112944,43.08286053569073
+Real Madrid,Atalanta,3,1,3 - 1,"UEFA Champions League (Round of 16), Leg 2 of 2Aggregate: Real Madrid 4:1 AtalantaReal Madrid won on aggregate score over two legs(Leg 1: Atalanta 0:1 Real Madrid)",2021-03-16,UEFA Champions League,2020-2021,74.14566565509962,62.13220741522628,68.138936535162955
+Chelsea,Atlético Madrid,2,0,2 - 0,"UEFA Champions League (Round of 16), Leg 2 of 2Aggregate: Chelsea 3:0 Atlético MadridChelsea won on aggregate score over two legs(Leg 1: Atlético Madrid 0:1 Chelsea)",2021-03-17,UEFA Champions League,2020-2021,72.74706425649822,44.57052381580684,58.65879403615253
+Bayern Munich,Lazio,2,1,2 - 1,"UEFA Champions League (Round of 16), Leg 2 of 2Aggregate: Bayern Munich 6:2 LazioBayern Munich won on aggregate score over two legs(Leg 1: Lazio 1:4 Bayern Munich)",2021-03-17,UEFA Champions League,2020-2021,59.724238026124816,47.60522496371553,53.664731494920176
+Manchester City,Dortmund,2,1,2 - 1,"UEFA Champions League (Quarter-finals), Leg 1 of 2Aggregate: Manchester City 4:2 DortmundManchester City won on aggregate score over two legs(Leg 2: Dortmund 1:2 Manchester City)",2021-04-06,UEFA Champions League,2020-2021,67.13946430927564,38.171262699564586,52.65536350442011
+Real Madrid,Liverpool,3,1,3 - 1,"UEFA Champions League (Quarter-finals), Leg 1 of 2Aggregate: Real Madrid 3:1 LiverpoolReal Madrid won on aggregate score over two legs(Leg 2: Liverpool 0:0 Real Madrid)",2021-04-06,UEFA Champions League,2020-2021,68.07626335928222,43.56115582530677,55.818709592294496
+Porto,Chelsea,0,2,0 - 2,"UEFA Champions League (Quarter-finals), Leg 1 of 2Aggregate: Porto 1:2 ChelseaChelsea won on aggregate score over two legs(Leg 2: Chelsea 0:1 Porto)",2021-04-07,UEFA Champions League,2020-2021,46.16044333025465,42.53199630558122,44.346219817917934
+Bayern Munich,Paris Saint-Germain,2,3,2 - 3,"UEFA Champions League (Quarter-finals), Leg 1 of 2Aggregate: Bayern Munich 3:3 Paris S-GParis S-G won on away goals, after aggregate score was tied(Leg 2: Paris S-G 0:1 Bayern Munich)",2021-04-07,UEFA Champions League,2020-2021,88.39556669745349,44.38580287636891,66.39068478691121
+Chelsea,Porto,0,1,0 - 1,"UEFA Champions League (Quarter-finals), Leg 2 of 2Aggregate: Chelsea 2:1 PortoChelsea won on aggregate score over two legs(Leg 1: Porto 0:2 Chelsea)",2021-04-13,UEFA Champions League,2020-2021,47.53925319963056,41.067423142894846,44.3033381712627
+Paris Saint-Germain,Bayern Munich,0,1,0 - 1,"UEFA Champions League (Quarter-finals), Leg 2 of 2Aggregate: Paris S-G 3:3 Bayern MunichParis S-G won on away goals, after aggregate score was tied(Leg 1: Bayern Munich 2:3 Paris S-G)",2021-04-13,UEFA Champions League,2020-2021,53.77358490566038,66.9877292518802,60.380657078770284
+Liverpool,Real Madrid,0,0,0 - 0,"UEFA Champions League (Quarter-finals), Leg 2 of 2Aggregate: Liverpool 1:3 Real MadridReal Madrid won on aggregate score over two legs(Leg 1: Real Madrid 3:1 Liverpool)",2021-04-14,UEFA Champions League,2020-2021,66.07072173109908,45.184061221797066,55.627391476448075
+Dortmund,Manchester City,1,2,1 - 2,"UEFA Champions League (Quarter-finals), Leg 2 of 2Aggregate: Dortmund 2:4 Manchester CityManchester City won on aggregate score over two legs(Leg 1: Manchester City 2:1 Dortmund)",2021-04-14,UEFA Champions League,2020-2021,32.504288164665525,69.62659981527906,51.065443989972295
+Real Madrid,Chelsea,1,1,1 - 1,"UEFA Champions League (Semi-finals), Leg 1 of 2Aggregate: Real Madrid 1:3 ChelseaChelsea won on aggregate score over two legs(Leg 2: Chelsea 2:0 Real Madrid)",2021-04-27,UEFA Champions League,2020-2021,40.011874917535295,67.63425253991292,53.82306372872411
+Paris Saint-Germain,Manchester City,1,2,1 - 2,"UEFA Champions League (Semi-finals), Leg 1 of 2Aggregate: Paris S-G 1:4 Manchester CityManchester City won on aggregate score over two legs(Leg 2: Manchester City 2:0 Paris S-G)",2021-04-28,UEFA Champions League,2020-2021,45.01913181158464,63.18115846417733,54.100145137880986
+Manchester City,Paris Saint-Germain,2,0,2 - 0,"UEFA Champions League (Semi-finals), Leg 2 of 2Aggregate: Manchester City 4:1 Paris S-GManchester City won on aggregate score over two legs(Leg 1: Paris S-G 1:2 Manchester City)",2021-05-04,UEFA Champions League,2020-2021,70.39187227866474,47.110436733078245,58.75115450587149
+Chelsea,Real Madrid,2,0,2 - 0,"UEFA Champions League (Semi-finals), Leg 2 of 2Aggregate: Chelsea 3:1 Real MadridChelsea won on aggregate score over two legs(Leg 1: Real Madrid 1:1 Chelsea)",2021-05-05,UEFA Champions League,2020-2021,69.40229581739015,34.938646259400976,52.17047103839556
+Manchester City,Chelsea,0,1,0 - 1,UEFA Champions League (Final),2021-05-29,UEFA Champions League,2020-2021,36.07336060166249,49.60416941549017,42.83876500857633
+Young Boys,Manchester United,2,1,2 - 1,UEFA Champions League (Group stage),2021-09-14,UEFA Champions League,2021-2022,62.561023881778596,28.037999736112944,45.299511808945766
+Sevilla,Red Bull Salzburg,1,1,1 - 1,UEFA Champions League (Group stage),2021-09-14,UEFA Champions League,2021-2022,39.108061749571185,52.86317456128777,45.98561815542948
+Chelsea,Zenit,1,0,1 - 0,UEFA Champions League (Group stage),2021-09-14,UEFA Champions League,2021-2022,49.7690988257026,37.59730835202533,43.68320358886396
+Villarreal,Atalanta,2,2,2 - 2,UEFA Champions League (Group stage),2021-09-14,UEFA Champions League,2021-2022,49.28090777147381,70.08180498746536,59.681356379469584
+Lille,Wolfsburg,0,0,0 - 0,UEFA Champions League (Group stage),2021-09-14,UEFA Champions League,2021-2022,56.14197123631086,30.261248185776488,43.20160971104367
+Barcelona,Bayern Munich,0,3,0 - 3,UEFA Champions League (Group stage),2021-09-14,UEFA Champions League,2021-2022,32.14804063860668,74.73941153186436,53.443726085235525
+Malmö,Juventus,0,3,0 - 3,UEFA Champions League (Group stage),2021-09-14,UEFA Champions League,2021-2022,27.675155033645602,72.04776355719751,49.861459295421554
+Dynamo Kyiv,Benfica,0,0,0 - 0,UEFA Champions League (Group stage),2021-09-14,UEFA Champions League,2021-2022,36.58794036152527,51.66908563134978,44.12851299643752
+Beşiktaş,Dortmund,1,2,1 - 2,UEFA Champions League (Group stage),2021-09-15,UEFA Champions League,2021-2022,69.26375511281171,77.99841667766196,73.63108589523684
+Sheriff Tiraspol,Shakhtar Donetsk,2,0,2 - 0,UEFA Champions League (Group stage),2021-09-15,UEFA Champions League,2021-2022,54.77635571975195,51.847209394379206,53.31178255706558
+Liverpool,Milan,3,2,3 - 2,UEFA Champions League (Group stage),2021-09-15,UEFA Champions League,2021-2022,77.93244491357699,57.70550204512469,67.81897347935083
+Sporting CP,Ajax,1,5,1 - 5,UEFA Champions League (Group stage),2021-09-15,UEFA Champions League,2021-2022,46.89272991159783,68.74257817654043,57.81765404406913
+Manchester City,RB Leipzig,6,3,6 - 3,UEFA Champions League (Group stage),2021-09-15,UEFA Champions League,2021-2022,59.93534767119672,47.176408497163216,53.555878084179966
+Internazionale,Real Madrid,0,1,0 - 1,UEFA Champions League (Group stage),2021-09-15,UEFA Champions League,2021-2022,65.1207283282755,57.09196463913445,61.10634648370498
+Club Brugge,Paris Saint-Germain,1,1,1 - 1,UEFA Champions League (Group stage),2021-09-15,UEFA Champions League,2021-2022,66.96793772265471,60.383955666974536,63.67594669481463
+Atlético Madrid,Porto,0,0,0 - 0,UEFA Champions League (Group stage),2021-09-15,UEFA Champions League,2021-2022,28.473413379073758,23.090117429740072,25.781765404406915
+Ajax,Beşiktaş,2,0,2 - 0,UEFA Champions League (Group stage),2021-09-28,UEFA Champions League,2021-2022,78.67132867132867,38.99590975062673,58.8336192109777
+Shakhtar Donetsk,Internazionale,0,0,0 - 0,UEFA Champions League (Group stage),2021-09-28,UEFA Champions League,2021-2022,42.75630030347011,35.571975194616705,39.164137749043405
+Porto,Liverpool,1,5,1 - 5,UEFA Champions League (Group stage),2021-09-28,UEFA Champions League,2021-2022,43.105950653120466,84.62198179179312,63.863966222456796
+Dortmund,Sporting CP,1,0,1 - 0,UEFA Champions League (Group stage),2021-09-28,UEFA Champions League,2021-2022,38.32959493336852,38.877160575273784,38.60337775432115
+RB Leipzig,Club Brugge,1,2,1 - 2,UEFA Champions League (Group stage),2021-09-28,UEFA Champions League,2021-2022,58.86000791661169,56.81488322997757,57.83744557329463
+Real Madrid,Sheriff Tiraspol,1,2,1 - 2,UEFA Champions League (Group stage),2021-09-28,UEFA Champions League,2021-2022,74.47552447552448,46.2923868584246,60.38395566697454
+Paris Saint-Germain,Manchester City,2,0,2 - 0,UEFA Champions League (Group stage),2021-09-28,UEFA Champions League,2021-2022,45.79100145137881,77.02863174561287,61.40981659849584
+Milan,Atlético Madrid,1,2,1 - 2,UEFA Champions League (Group stage),2021-09-28,UEFA Champions League,2021-2022,47.36112943660113,66.86898007652725,57.11505475656419
+Atalanta,Young Boys,1,0,1 - 0,UEFA Champions League (Group stage),2021-09-29,UEFA Champions League,2021-2022,78.05779126533844,34.24594273650877,56.1518670009236
+Zenit,Malmö,4,0,4 - 0,UEFA Champions League (Group stage),2021-09-29,UEFA Champions League,2021-2022,68.75577252935743,32.51088534107402,50.63332893521573
+Benfica,Barcelona,3,0,3 - 0,UEFA Champions League (Group stage),2021-09-29,UEFA Champions League,2021-2022,58.51035756696134,47.78994590315345,53.15015173505739
+Manchester United,Villarreal,2,1,2 - 1,UEFA Champions League (Group stage),2021-09-29,UEFA Champions League,2021-2022,63.67594669481462,64.92941021242908,64.30267845362185
+Bayern Munich,Dynamo Kyiv,5,0,5 - 0,UEFA Champions League (Group stage),2021-09-29,UEFA Champions League,2021-2022,74.93072964771078,27.00224303997889,50.966486343844835
+Red Bull Salzburg,Lille,2,1,2 - 1,UEFA Champions League (Group stage),2021-09-29,UEFA Champions League,2021-2022,48.40348330914369,52.50692703522892,50.455205172186304
+Juventus,Chelsea,1,0,1 - 0,UEFA Champions League (Group stage),2021-09-29,UEFA Champions League,2021-2022,34.377886264678715,55.686766064124555,45.03232616440164
+Wolfsburg,Sevilla,1,1,1 - 1,UEFA Champions League (Group stage),2021-09-29,UEFA Champions League,2021-2022,36.71328671328671,37.241060825966485,36.9771737696266
+Club Brugge,Manchester City,1,5,1 - 5,UEFA Champions League (Group stage),2021-10-19,UEFA Champions League,2021-2022,43.22469982847342,79.3244491357699,61.27457448212166
+Beşiktaş,Sporting CP,1,4,1 - 4,UEFA Champions League (Group stage),2021-10-19,UEFA Champions League,2021-2022,63.13497822931785,76.99564586357039,70.06531204644412
+Porto,Milan,1,0,1 - 0,UEFA Champions League (Group stage),2021-10-19,UEFA Champions League,2021-2022,64.69191186172318,35.103575669613406,49.897743765668295
+Internazionale,Sheriff Tiraspol,3,1,3 - 1,UEFA Champions League (Group stage),2021-10-19,UEFA Champions League,2021-2022,78.08417997097243,43.42921229713683,60.75669613405463
+Paris Saint-Germain,RB Leipzig,3,2,3 - 2,UEFA Champions League (Group stage),2021-10-19,UEFA Champions League,2021-2022,54.63121783876501,75.30676870299511,64.96899327088006
+Ajax,Dortmund,4,0,4 - 0,UEFA Champions League (Group stage),2021-10-19,UEFA Champions League,2021-2022,77.05502045124686,55.97704182609843,66.51603113867264
+Atlético Madrid,Liverpool,2,3,2 - 3,UEFA Champions League (Group stage),2021-10-19,UEFA Champions League,2021-2022,53.74719620002639,56.17495711835335,54.96107665918987
+Shakhtar Donetsk,Real Madrid,0,5,0 - 5,UEFA Champions League (Group stage),2021-10-19,UEFA Champions League,2021-2022,45.83058450982979,77.95223644280249,61.89141047631614
+Barcelona,Dynamo Kyiv,1,0,1 - 0,UEFA Champions League (Group stage),2021-10-20,UEFA Champions League,2021-2022,62.44887188283415,30.967146061485685,46.70800897215992
+Red Bull Salzburg,Wolfsburg,3,1,3 - 1,UEFA Champions League (Group stage),2021-10-20,UEFA Champions League,2021-2022,65.70787702863174,44.6562871091173,55.18208206887452
+Manchester United,Atalanta,3,2,3 - 2,UEFA Champions League (Group stage),2021-10-20,UEFA Champions League,2021-2022,72.45019131811584,56.86766064124554,64.65892597968069
+Benfica,Bayern Munich,0,4,0 - 4,UEFA Champions League (Group stage),2021-10-20,UEFA Champions League,2021-2022,35.110172846021904,67.03390948673967,51.072041166380785
+Chelsea,Malmö,4,0,4 - 0,UEFA Champions League (Group stage),2021-10-20,UEFA Champions League,2021-2022,68.88111888111888,10.120068610634648,39.50059374587676
+Young Boys,Villarreal,1,4,1 - 4,UEFA Champions League (Group stage),2021-10-20,UEFA Champions League,2021-2022,75.65641905264548,60.53569072436997,68.09605488850772
+Lille,Sevilla,0,0,0 - 0,UEFA Champions League (Group stage),2021-10-20,UEFA Champions League,2021-2022,28.519593613933235,47.75696002111096,38.1382768175221
+Zenit,Juventus,0,1,0 - 1,UEFA Champions League (Group stage),2021-10-20,UEFA Champions League,2021-2022,36.11954083652197,55.284338303206226,45.701939569864095
+Wolfsburg,Red Bull Salzburg,2,1,2 - 1,UEFA Champions League (Group stage),2021-11-02,UEFA Champions League,2021-2022,59.85618155429476,70.82728592162555,65.34173373796015
+Malmö,Chelsea,0,1,0 - 1,UEFA Champions League (Group stage),2021-11-02,UEFA Champions League,2021-2022,28.18973479350838,68.88771605752738,48.53872542551788
+Villarreal,Young Boys,2,0,2 - 0,UEFA Champions League (Group stage),2021-11-02,UEFA Champions League,2021-2022,63.12178387650086,46.219817917931124,54.67080089721599
+Bayern Munich,Benfica,5,2,5 - 2,UEFA Champions League (Group stage),2021-11-02,UEFA Champions League,2021-2022,84.35149755904473,41.77332101860404,63.062409288824384
+Juventus,Zenit,4,2,4 - 2,UEFA Champions League (Group stage),2021-11-02,UEFA Champions League,2021-2022,75.16163082200818,43.09935347671197,59.13049214936007
+Atalanta,Manchester United,2,2,2 - 2,UEFA Champions League (Group stage),2021-11-02,UEFA Champions League,2021-2022,55.37669877292519,63.81448739939306,59.59559308615913
+Sevilla,Lille,1,2,1 - 2,UEFA Champions League (Group stage),2021-11-02,UEFA Champions League,2021-2022,49.12917271407837,54.59823195672252,51.86370233540045
+Dynamo Kyiv,Barcelona,0,1,0 - 1,UEFA Champions League (Group stage),2021-11-02,UEFA Champions League,2021-2022,42.941021242908036,51.985750098957645,47.46338567093284
+Milan,Porto,1,1,1 - 1,UEFA Champions League (Group stage),2021-11-03,UEFA Champions League,2021-2022,36.079957778070984,55.53503100672912,45.80749439240005
+Real Madrid,Shakhtar Donetsk,2,1,2 - 1,UEFA Champions League (Group stage),2021-11-03,UEFA Champions League,2021-2022,70.26652592690328,63.220741522628316,66.7436337247658
+Liverpool,Atlético Madrid,2,0,2 - 0,UEFA Champions League (Group stage),2021-11-03,UEFA Champions League,2021-2022,76.55363504420109,29.39701807626336,52.975326560232226
+Sporting CP,Beşiktaş,4,0,4 - 0,UEFA Champions League (Group stage),2021-11-03,UEFA Champions League,2021-2022,66.53252407969389,52.876368914104766,59.70444649689932
+Manchester City,Club Brugge,4,1,4 - 1,UEFA Champions League (Group stage),2021-11-03,UEFA Champions League,2021-2022,80.30742842063597,45.36218498482649,62.83480670273123
+Dortmund,Ajax,1,3,1 - 3,UEFA Champions League (Group stage),2021-11-03,UEFA Champions League,2021-2022,54.46628842855258,72.27866473149491,63.37247658002374
+RB Leipzig,Paris Saint-Germain,2,2,2 - 2,UEFA Champions League (Group stage),2021-11-03,UEFA Champions League,2021-2022,62.04644412191582,51.76804327747724,56.90724369969653
+Sheriff Tiraspol,Internazionale,1,3,1 - 3,UEFA Champions League (Group stage),2021-11-03,UEFA Champions League,2021-2022,25.46510093679905,64.93600738883758,45.200554162818314
+Villarreal,Manchester United,0,2,0 - 2,UEFA Champions League (Group stage),2021-11-23,UEFA Champions League,2021-2022,38.8375775168228,47.09724238026125,42.96740994854203
+Dynamo Kyiv,Bayern Munich,1,2,1 - 2,UEFA Champions League (Group stage),2021-11-23,UEFA Champions League,2021-2022,56.82807758279456,63.46483704974271,60.14645731626864
+Chelsea,Juventus,4,0,4 - 0,UEFA Champions League (Group stage),2021-11-23,UEFA Champions League,2021-2022,69.5540308747856,38.15147117033909,53.852751022562344
+Malmö,Zenit,1,1,1 - 1,UEFA Champions League (Group stage),2021-11-23,UEFA Champions League,2021-2022,21.104367330782427,38.91014645731627,30.00725689404935
+Sevilla,Wolfsburg,2,0,2 - 0,UEFA Champions League (Group stage),2021-11-23,UEFA Champions League,2021-2022,71.51998944451775,35.05079825834543,53.28539385143159
+Lille,Red Bull Salzburg,1,0,1 - 0,UEFA Champions League (Group stage),2021-11-23,UEFA Champions League,2021-2022,44.32642828869244,46.20662356511413,45.266525926903284
+Young Boys,Atalanta,3,3,3 - 3,UEFA Champions League (Group stage),2021-11-23,UEFA Champions League,2021-2022,53.00171526586621,59.01834015041562,56.01002770814091
+Barcelona,Benfica,0,0,0 - 0,UEFA Champions League (Group stage),2021-11-23,UEFA Champions League,2021-2022,64.15094339622641,47.63161366934952,55.891278532787965
+Internazionale,Shakhtar Donetsk,2,0,2 - 0,UEFA Champions League (Group stage),2021-11-24,UEFA Champions League,2021-2022,62.956854466288426,37.57751682279984,50.267185644544135
+Liverpool,Porto,2,0,2 - 0,UEFA Champions League (Group stage),2021-11-24,UEFA Champions League,2021-2022,56.01002770814092,40.03166644676079,48.02084707745085
+Sporting CP,Dortmund,3,1,3 - 1,UEFA Champions League (Group stage),2021-11-24,UEFA Champions League,2021-2022,53.7208074943924,72.80643884417469,63.26362316928355
+Manchester City,Paris Saint-Germain,2,1,2 - 1,UEFA Champions League (Group stage),2021-11-24,UEFA Champions League,2021-2022,60.89853542683731,40.99485420240137,50.94669481461934
+Beşiktaş,Ajax,1,2,1 - 2,UEFA Champions League (Group stage),2021-11-24,UEFA Champions League,2021-2022,56.17495711835334,75.31996305581211,65.74746008708273
+Atlético Madrid,Milan,0,1,0 - 1,UEFA Champions League (Group stage),2021-11-24,UEFA Champions League,2021-2022,38.98931257421823,59.05132603245811,49.02031930333817
+Club Brugge,RB Leipzig,0,5,0 - 5,UEFA Champions League (Group stage),2021-11-24,UEFA Champions League,2021-2022,52.091304921493595,76.7317588072305,64.41153186436205
+Sheriff Tiraspol,Real Madrid,0,3,0 - 3,UEFA Champions League (Group stage),2021-11-24,UEFA Champions League,2021-2022,40.684786911202,70.73492545190658,55.70985618155429
+RB Leipzig,Manchester City,2,1,2 - 1,UEFA Champions League (Group stage),2021-12-07,UEFA Champions League,2021-2022,47.85591766723842,49.24132471302283,48.548621190130625
+Paris Saint-Germain,Club Brugge,4,1,4 - 1,UEFA Champions League (Group stage),2021-12-07,UEFA Champions League,2021-2022,75.14843646919118,61.24158860007917,68.19501253463517
+Porto,Atlético Madrid,1,3,1 - 3,UEFA Champions League (Group stage),2021-12-07,UEFA Champions League,2021-2022,49.65034965034965,64.94260456524607,57.29647710779786
+Ajax,Sporting CP,4,2,4 - 2,UEFA Champions League (Group stage),2021-12-07,UEFA Champions League,2021-2022,59.90895896556274,55.52843383032062,57.718696397941684
+Real Madrid,Internazionale,2,0,2 - 0,UEFA Champions League (Group stage),2021-12-07,UEFA Champions League,2021-2022,53.83295949333685,45.1114922813036,49.47222588732022
+Dortmund,Beşiktaş,5,0,5 - 0,UEFA Champions League (Group stage),2021-12-07,UEFA Champions League,2021-2022,74.85816070721731,29.93798654176013,52.39807362448872
+Milan,Liverpool,1,2,1 - 2,UEFA Champions League (Group stage),2021-12-07,UEFA Champions League,2021-2022,50.488191054228786,66.18947090645203,58.338830980340404
+Shakhtar Donetsk,Sheriff Tiraspol,1,1,1 - 1,UEFA Champions League (Group stage),2021-12-07,UEFA Champions League,2021-2022,64.83045256630163,52.07151339226811,58.45098297928487
+Juventus,Malmö,1,0,1 - 0,UEFA Champions League (Group stage),2021-12-08,UEFA Champions League,2021-2022,73.11650613537405,33.243171922417204,53.17983902889563
+Manchester United,Young Boys,1,1,1 - 1,UEFA Champions League (Group stage),2021-12-08,UEFA Champions League,2021-2022,56.33988652856577,51.81422351233672,54.07705502045124
+Benfica,Dynamo Kyiv,2,0,2 - 0,UEFA Champions League (Group stage),2021-12-08,UEFA Champions League,2021-2022,54.86211901306241,45.04552051721863,49.95381976514052
+Zenit,Chelsea,3,3,3 - 3,UEFA Champions League (Group stage),2021-12-08,UEFA Champions League,2021-2022,64.79086950785064,67.39015701279853,66.09051326032458
+Red Bull Salzburg,Sevilla,1,0,1 - 0,UEFA Champions League (Group stage),2021-12-08,UEFA Champions League,2021-2022,39.075075867528696,44.478163346087875,41.77661960680828
+Bayern Munich,Barcelona,3,0,3 - 0,UEFA Champions League (Group stage),2021-12-08,UEFA Champions League,2021-2022,75.21440823327616,41.865681488323,58.54004486079958
+Wolfsburg,Lille,1,3,1 - 3,UEFA Champions League (Group stage),2021-12-08,UEFA Champions League,2021-2022,45.40176804327748,55.70655759335004,50.554162818313756
+Atalanta,Villarreal,2,3,2 - 3,UEFA Champions League (Group stage),2021-12-09,UEFA Champions League,2021-2022,71.07138144873994,65.60232220609579,68.33685182741786
+Sporting CP,Manchester City,0,5,0 - 5,"UEFA Champions League (Round of 16), Leg 1 of 2Aggregate: Sporting CP 0:5 Manchester CityManchester City won on aggregate score over two legs(Leg 2: Manchester City 0:0 Sporting CP)",2022-02-15,UEFA Champions League,2021-2022,18.10924924132471,67.58807230505344,42.84866077318908
+Paris Saint-Germain,Real Madrid,1,0,1 - 0,"UEFA Champions League (Round of 16), Leg 1 of 2Aggregate: Paris S-G 2:3 Real MadridReal Madrid won on aggregate score over two legs(Leg 2: Real Madrid 3:1 Paris S-G)",2022-02-15,UEFA Champions League,2021-2022,66.5127325504684,34.72753661432907,50.620134582398734
+Internazionale,Liverpool,0,2,0 - 2,"UEFA Champions League (Round of 16), Leg 1 of 2Aggregate: Inter 1:2 LiverpoolLiverpool won on aggregate score over two legs(Leg 2: Liverpool 0:1 Inter)",2022-02-16,UEFA Champions League,2021-2022,48.548621190130625,52.51352421163742,50.531072700884025
+Red Bull Salzburg,Bayern Munich,1,1,1 - 1,"UEFA Champions League (Round of 16), Leg 1 of 2Aggregate: RB Salzburg 2:8 Bayern MunichBayern Munich won on aggregate score over two legs(Leg 2: Bayern Munich 7:1 RB Salzburg)",2022-02-16,UEFA Champions League,2021-2022,58.20688745217047,82.76817522100541,70.48753133658794
+Chelsea,Lille,2,0,2 - 0,"UEFA Champions League (Round of 16), Leg 1 of 2Aggregate: Chelsea 4:1 LilleChelsea won on aggregate score over two legs(Leg 2: Lille 1:2 Chelsea)",2022-02-22,UEFA Champions League,2021-2022,68.20820688745218,50.2243039978889,59.216255442670544
+Villarreal,Juventus,1,1,1 - 1,"UEFA Champions League (Round of 16), Leg 1 of 2Aggregate: Villarreal 4:1 JuventusVillarreal won on aggregate score over two legs(Leg 2: Juventus 0:3 Villarreal)",2022-02-22,UEFA Champions League,2021-2022,53.62844702467344,35.32128249109381,44.47486475788362
+Benfica,Ajax,2,2,2 - 2,"UEFA Champions League (Round of 16), Leg 1 of 2Aggregate: Benfica 3:2 AjaxBenfica won on aggregate score over two legs(Leg 2: Ajax 0:1 Benfica)",2022-02-23,UEFA Champions League,2021-2022,43.00039583058451,58.319039451114925,50.65971764084972
+Atlético Madrid,Manchester United,1,1,1 - 1,"UEFA Champions League (Round of 16), Leg 1 of 2Aggregate: Atlético Madrid 2:1 Manchester UtdAtlético Madrid won on aggregate score over two legs(Leg 2: Manchester Utd 0:1 Atlético Madrid)",2022-02-23,UEFA Champions League,2021-2022,41.46325372740467,33.909486739675415,37.686370233540046
+Liverpool,Internazionale,0,1,0 - 1,"UEFA Champions League (Round of 16), Leg 2 of 2Aggregate: Liverpool 2:1 InterLiverpool won on aggregate score over two legs(Leg 1: Inter 0:2 Liverpool)",2022-03-08,UEFA Champions League,2021-2022,50.778466816202666,32.95949333685183,41.86898007652725
+Bayern Munich,Red Bull Salzburg,7,1,7 - 1,"UEFA Champions League (Round of 16), Leg 2 of 2Aggregate: Bayern Munich 8:2 RB SalzburgBayern Munich won on aggregate score over two legs(Leg 1: RB Salzburg 1:1 Bayern Munich)",2022-03-08,UEFA Champions League,2021-2022,74.31059506531204,39.58305845098298,56.94682675814751
+Manchester City,Sporting CP,0,0,0 - 0,"UEFA Champions League (Round of 16), Leg 2 of 2Aggregate: Manchester City 5:0 Sporting CPManchester City won on aggregate score over two legs(Leg 1: Sporting CP 0:5 Manchester City)",2022-03-09,UEFA Champions League,2021-2022,59.57250296872938,33.144214276289745,46.35835862250956
+Real Madrid,Paris Saint-Germain,3,1,3 - 1,"UEFA Champions League (Round of 16), Leg 2 of 2Aggregate: Real Madrid 3:2 Paris S-GReal Madrid won on aggregate score over two legs(Leg 1: Paris S-G 1:0 Real Madrid)",2022-03-09,UEFA Champions League,2021-2022,74.4095527114395,53.92531996305581,64.16743633724766
+Manchester United,Atlético Madrid,0,1,0 - 1,"UEFA Champions League (Round of 16), Leg 2 of 2Aggregate: Manchester Utd 1:2 Atlético MadridAtlético Madrid won on aggregate score over two legs(Leg 1: Atlético Madrid 1:1 Manchester Utd)",2022-03-15,UEFA Champions League,2021-2022,54.40691384087611,34.39767779390421,44.402295817390154
+Ajax,Benfica,0,1,0 - 1,"UEFA Champions League (Round of 16), Leg 2 of 2Aggregate: Ajax 2:3 BenficaBenfica won on aggregate score over two legs(Leg 1: Benfica 2:2 Ajax)",2022-03-15,UEFA Champions League,2021-2022,62.60720411663808,28.981395962528037,45.79430003958306
+Lille,Chelsea,1,2,1 - 2,"UEFA Champions League (Round of 16), Leg 2 of 2Aggregate: Lille 1:4 ChelseaChelsea won on aggregate score over two legs(Leg 1: Chelsea 2:0 Lille)",2022-03-16,UEFA Champions League,2021-2022,34.61538461538461,38.910146457316266,36.76276553635044
+Juventus,Villarreal,0,3,0 - 3,"UEFA Champions League (Round of 16), Leg 2 of 2Aggregate: Juventus 1:4 VillarrealVillarreal won on aggregate score over two legs(Leg 1: Villarreal 1:1 Juventus)",2022-03-16,UEFA Champions League,2021-2022,60.86554954479483,38.53410740203193,49.699828473413376
+Benfica,Liverpool,1,3,1 - 3,"UEFA Champions League (Quarter-finals), Leg 1 of 2Aggregate: Benfica 4:6 LiverpoolLiverpool won on aggregate score over two legs(Leg 2: Liverpool 3:3 Benfica)",2022-04-05,UEFA Champions League,2021-2022,55.51523947750363,82.29317851959361,68.90420899854863
+Manchester City,Atlético Madrid,1,0,1 - 0,"UEFA Champions League (Quarter-finals), Leg 1 of 2Aggregate: Manchester City 1:0 Atlético MadridManchester City won on aggregate score over two legs(Leg 2: Atlético Madrid 0:0 Manchester City)",2022-04-05,UEFA Champions League,2021-2022,58.07494392400053,19.996041694154904,39.03549280907772
+Chelsea,Real Madrid,1,3,1 - 3,"UEFA Champions League (Quarter-finals), Leg 1 of 2Aggregate: Chelsea 4:5 Real MadridReal Madrid won on aggregate score over two legs, after extra time(Leg 2: Real Madrid 2:3 Chelsea)",2022-04-06,UEFA Champions League,2021-2022,58.99854862119013,52.62567621058187,55.812112415886006
+Villarreal,Bayern Munich,1,0,1 - 0,"UEFA Champions League (Quarter-finals), Leg 1 of 2Aggregate: Villarreal 2:1 Bayern MunichVillarreal won on aggregate score over two legs(Leg 2: Bayern Munich 1:1 Villarreal)",2022-04-06,UEFA Champions League,2021-2022,47.011479086950786,79.7598627787307,63.385670932840746
+Bayern Munich,Villarreal,1,1,1 - 1,"UEFA Champions League (Quarter-finals), Leg 2 of 2Aggregate: Bayern Munich 1:2 VillarrealVillarreal won on aggregate score over two legs(Leg 1: Villarreal 1:0 Bayern Munich)",2022-04-12,UEFA Champions League,2021-2022,66.18947090645204,36.0469718960285,51.11822140124028
+Real Madrid,Chelsea,2,3,2 - 3,"UEFA Champions League (Quarter-finals), Leg 2 of 2Aggregate: Real Madrid 5:4 ChelseaReal Madrid won on aggregate score over two legs, after extra time(Leg 1: Chelsea 1:3 Real Madrid)",2022-04-12,UEFA Champions League,2021-2022,67.40335136561552,83.86990368122443,75.63662752341997
+Liverpool,Benfica,3,3,3 - 3,"UEFA Champions League (Quarter-finals), Leg 2 of 2Aggregate: Liverpool 6:4 BenficaLiverpool won on aggregate score over two legs(Leg 1: Benfica 1:3 Liverpool)",2022-04-13,UEFA Champions League,2021-2022,72.46998284734134,51.26665787043145,61.86832035888639
+Atlético Madrid,Manchester City,0,0,0 - 0,"UEFA Champions League (Quarter-finals), Leg 2 of 2Aggregate: Atlético Madrid 0:1 Manchester CityManchester City won on aggregate score over two legs(Leg 1: Manchester City 1:0 Atlético Madrid)",2022-04-13,UEFA Champions League,2021-2022,45.520517218630424,50.19131811584642,47.85591766723842
+Manchester City,Real Madrid,4,3,4 - 3,"UEFA Champions League (Semi-finals), Leg 1 of 2Aggregate: Manchester City 5:6 Real MadridReal Madrid won on aggregate score over two legs, after extra time(Leg 2: Real Madrid 3:1 Manchester City)",2022-04-26,UEFA Champions League,2021-2022,77.05502045124686,46.53648238553899,61.795751418392925
+Liverpool,Villarreal,2,0,2 - 0,"UEFA Champions League (Semi-finals), Leg 1 of 2Aggregate: Liverpool 5:2 VillarrealLiverpool won on aggregate score over two legs(Leg 2: Villarreal 2:3 Liverpool)",2022-04-27,UEFA Champions League,2021-2022,73.0307428420636,21.500197915292258,47.26547037867793
+Villarreal,Liverpool,2,3,2 - 3,"UEFA Champions League (Semi-finals), Leg 2 of 2Aggregate: Villarreal 2:5 LiverpoolLiverpool won on aggregate score over two legs(Leg 1: Liverpool 2:0 Villarreal)",2022-05-03,UEFA Champions League,2021-2022,36.62092624356775,60.32458107929806,48.472753661432904
+Real Madrid,Manchester City,3,1,3 - 1,"UEFA Champions League (Semi-finals), Leg 2 of 2Aggregate: Real Madrid 6:5 Manchester CityReal Madrid won on aggregate score over two legs, after extra time(Leg 1: Manchester City 4:3 Real Madrid)",2022-05-04,UEFA Champions League,2021-2022,64.36865021770681,78.6053569072437,71.48700356247525
+Liverpool,Real Madrid,0,1,0 - 1,UEFA Champions League (Final),2022-05-28,UEFA Champions League,2021-2022,76.21717904736772,46.35835862250957,61.287768834938646
+Dinamo Zagreb,Chelsea,1,0,1 - 0,UEFA Champions League (Group stage),2022-09-06,UEFA Champions League,2022-2023,46.72780050138541,62.19817917931125,54.46298984034833
+Dortmund,FC Copenhagen,3,0,3 - 0,UEFA Champions League (Group stage),2022-09-06,UEFA Champions League,2022-2023,71.46061485684127,34.29872014777675,52.87966750230901
+Benfica,Maccabi Haifa,2,0,2 - 0,UEFA Champions League (Group stage),2022-09-06,UEFA Champions League,2022-2023,60.89853542683731,37.86119540836522,49.379865417601266
+Celtic,Real Madrid,0,3,0 - 3,UEFA Champions League (Group stage),2022-09-06,UEFA Champions League,2022-2023,47.875709196463916,64.83045256630162,56.353080881382766
+Paris Saint-Germain,Juventus,2,1,2 - 1,UEFA Champions League (Group stage),2022-09-06,UEFA Champions League,2022-2023,57.34925451906584,43.85143158728064,50.60034305317324
+RB Leipzig,Shakhtar Donetsk,1,4,1 - 4,UEFA Champions League (Group stage),2022-09-06,UEFA Champions League,2022-2023,51.1742974007125,42.12956854466288,46.65193297268769
+Sevilla,Manchester City,0,4,0 - 4,UEFA Champions League (Group stage),2022-09-06,UEFA Champions League,2022-2023,25.821348462857898,74.44253859348198,50.13194352816994
+Red Bull Salzburg,Milan,1,1,1 - 1,UEFA Champions League (Group stage),2022-09-06,UEFA Champions League,2022-2023,53.99788890354928,56.53780182082069,55.267845362184985
+Ajax,Rangers,4,0,4 - 0,UEFA Champions League (Group stage),2022-09-07,UEFA Champions League,2022-2023,70.84707745085103,19.14500593745877,44.9960416941549
+Eintracht Frankfurt,Sporting CP,0,3,0 - 3,UEFA Champions League (Group stage),2022-09-07,UEFA Champions League,2022-2023,48.16598495843779,53.82636231692835,50.99617363768307
+Tottenham Hotspur,Marseille,2,0,2 - 0,UEFA Champions League (Group stage),2022-09-07,UEFA Champions League,2022-2023,59.09090909090909,35.85565378018208,47.47328143554559
+Napoli,Liverpool,4,1,4 - 1,UEFA Champions League (Group stage),2022-09-07,UEFA Champions League,2022-2023,70.87346615648502,45.203852751022566,58.038659453753795
+Atlético Madrid,Porto,2,1,2 - 1,UEFA Champions League (Group stage),2022-09-07,UEFA Champions League,2022-2023,49.3006993006993,44.4187887584114,46.85974402955535
+Club Brugge,Bayer Leverkusen,1,0,1 - 0,UEFA Champions League (Group stage),2022-09-07,UEFA Champions League,2022-2023,33.79733474073097,54.4267053701016,44.11202005541628
+Internazionale,Bayern Munich,0,2,0 - 2,UEFA Champions League (Group stage),2022-09-07,UEFA Champions League,2022-2023,40.14381844570524,82.16783216783217,61.155825306768705
+Barcelona,Viktoria Plzeň,5,1,5 - 1,UEFA Champions League (Group stage),2022-09-07,UEFA Champions League,2022-2023,82.3327615780446,38.15806834674759,60.2454149623961
+Sporting CP,Tottenham Hotspur,2,0,2 - 0,UEFA Champions League (Group stage),2022-09-13,UEFA Champions League,2022-2023,54.56524607468003,49.419448476052246,51.99234727536614
+Viktoria Plzeň,Internazionale,0,2,0 - 2,UEFA Champions League (Group stage),2022-09-13,UEFA Champions League,2022-2023,31.831376170998812,59.579100145137886,45.70523815806835
+Liverpool,Ajax,2,1,2 - 1,UEFA Champions League (Group stage),2022-09-13,UEFA Champions League,2022-2023,71.65193297268769,40.12402691647975,55.88797994458372
+Porto,Club Brugge,0,4,0 - 4,UEFA Champions League (Group stage),2022-09-13,UEFA Champions League,2022-2023,52.988520913049214,65.5627391476448,59.27563003034701
+Marseille,Eintracht Frankfurt,0,1,0 - 1,UEFA Champions League (Group stage),2022-09-13,UEFA Champions League,2022-2023,60.595065312046444,51.49755904472886,56.04631217838765
+Bayern Munich,Barcelona,2,0,2 - 0,UEFA Champions League (Group stage),2022-09-13,UEFA Champions League,2022-2023,71.1703390948674,62.73255046839952,66.95144478163346
+Bayer Leverkusen,Atlético Madrid,2,0,2 - 0,UEFA Champions League (Group stage),2022-09-13,UEFA Champions League,2022-2023,59.922153318379735,43.93719488059111,51.929674099485425
+Milan,Dinamo Zagreb,3,1,3 - 1,UEFA Champions League (Group stage),2022-09-14,UEFA Champions League,2022-2023,65.83982055680168,34.734133790737566,50.28697717376963
+Shakhtar Donetsk,Celtic,1,1,1 - 1,UEFA Champions League (Group stage),2022-09-14,UEFA Champions League,2022-2023,39.03549280907772,66.44016360997493,52.73782820952633
+Manchester City,Dortmund,2,1,2 - 1,UEFA Champions League (Group stage),2022-09-14,UEFA Champions League,2022-2023,56.87425781765405,41.04763161366935,48.9609447156617
+Chelsea,Red Bull Salzburg,1,1,1 - 1,UEFA Champions League (Group stage),2022-09-14,UEFA Champions League,2022-2023,63.58358622509566,33.843514975590445,48.713550600343055
+Rangers,Napoli,0,3,0 - 3,UEFA Champions League (Group stage),2022-09-14,UEFA Champions League,2022-2023,41.83269560628051,71.90922285261908,56.870959229449795
+Real Madrid,RB Leipzig,2,0,2 - 0,UEFA Champions League (Group stage),2022-09-14,UEFA Champions League,2022-2023,54.33434490038264,33.09803404143027,43.71618947090646
+FC Copenhagen,Sevilla,0,0,0 - 0,UEFA Champions League (Group stage),2022-09-14,UEFA Champions League,2022-2023,38.56049610766592,31.76540440691384,35.16295025728988
+Juventus,Benfica,1,2,1 - 2,UEFA Champions League (Group stage),2022-09-14,UEFA Champions League,2022-2023,48.548621190130625,73.12310331178256,60.835862250956595
+Maccabi Haifa,Paris Saint-Germain,1,3,1 - 3,UEFA Champions League (Group stage),2022-09-14,UEFA Champions League,2022-2023,55.581211241588605,63.50442010819369,59.542815674891145
+Bayern Munich,Viktoria Plzeň,5,0,5 - 0,UEFA Champions League (Group stage),2022-10-04,UEFA Champions League,2022-2023,80.53173241852487,37.08932576857105,58.810529093547956
+Marseille,Sporting CP,4,1,4 - 1,UEFA Champions League (Group stage),2022-10-04,UEFA Champions League,2022-2023,69.90368122443594,24.58107929806043,47.24238026124819
+Porto,Bayer Leverkusen,2,0,2 - 0,UEFA Champions League (Group stage),2022-10-04,UEFA Champions League,2022-2023,52.39477503628447,43.19831112283943,47.79654307956195
+Liverpool,Rangers,2,0,2 - 0,UEFA Champions League (Group stage),2022-10-04,UEFA Champions League,2022-2023,72.12033249769098,29.159519725557466,50.63992611162422
+Internazionale,Barcelona,1,0,1 - 0,UEFA Champions League (Group stage),2022-10-04,UEFA Champions League,2022-2023,28.334872674495315,33.909486739675415,31.122179707085365
+Eintracht Frankfurt,Tottenham Hotspur,0,0,0 - 0,UEFA Champions League (Group stage),2022-10-04,UEFA Champions League,2022-2023,46.13405462462066,53.7208074943924,49.92743105950653
+Ajax,Napoli,1,6,1 - 6,UEFA Champions League (Group stage),2022-10-04,UEFA Champions League,2022-2023,42.93442406649954,77.50362844702467,60.219026256762106
+Club Brugge,Atlético Madrid,2,0,2 - 0,UEFA Champions League (Group stage),2022-10-04,UEFA Champions League,2022-2023,52.16387386198707,50.917007520781105,51.54044069138409
+Red Bull Salzburg,Dinamo Zagreb,1,0,1 - 0,UEFA Champions League (Group stage),2022-10-05,UEFA Champions League,2022-2023,63.99920833883098,40.44069138408761,52.2199498614593
+RB Leipzig,Celtic,3,1,3 - 1,UEFA Champions League (Group stage),2022-10-05,UEFA Champions League,2022-2023,62.34991423670669,48.62119013062409,55.48555218366539
+Chelsea,Milan,3,0,3 - 0,UEFA Champions League (Group stage),2022-10-05,UEFA Champions League,2022-2023,57.019395698640984,29.78625148436469,43.40282359150284
+Benfica,Paris Saint-Germain,1,1,1 - 1,UEFA Champions League (Group stage),2022-10-05,UEFA Champions League,2022-2023,55.093020187359805,59.00514579759863,57.049082992479214
+Manchester City,FC Copenhagen,5,0,5 - 0,UEFA Champions League (Group stage),2022-10-05,UEFA Champions League,2022-2023,68.99327088006333,23.0307428420636,46.01200686106347
+Real Madrid,Shakhtar Donetsk,2,1,2 - 1,UEFA Champions League (Group stage),2022-10-05,UEFA Champions League,2022-2023,76.81092492413248,49.082992479218895,62.94695870167568
+Juventus,Maccabi Haifa,3,1,3 - 1,UEFA Champions League (Group stage),2022-10-05,UEFA Champions League,2022-2023,75.04288164665523,53.885736904604826,64.46430927563003
+Sevilla,Dortmund,1,4,1 - 4,UEFA Champions League (Group stage),2022-10-05,UEFA Champions League,2022-2023,63.7089325768571,74.66024541496239,69.18458899590975
+FC Copenhagen,Manchester City,0,0,0 - 0,UEFA Champions League (Group stage),2022-10-11,UEFA Champions League,2022-2023,22.384219554030874,32.900118749175356,27.642169151603113
+Maccabi Haifa,Juventus,2,0,2 - 0,UEFA Champions League (Group stage),2022-10-11,UEFA Champions League,2022-2023,51.07533975458504,45.92294497954875,48.499142367066895
+Celtic,RB Leipzig,0,2,0 - 2,UEFA Champions League (Group stage),2022-10-11,UEFA Champions League,2022-2023,53.483309143686505,67.87175089061881,60.67753001715266
+Paris Saint-Germain,Benfica,1,1,1 - 1,UEFA Champions League (Group stage),2022-10-11,UEFA Champions League,2022-2023,38.25702599287505,41.06742314289484,39.66222456788495
+Milan,Chelsea,0,2,0 - 2,UEFA Champions League (Group stage),2022-10-11,UEFA Champions League,2022-2023,22.67449531600475,56.13537405990236,39.404934687953556
+Dinamo Zagreb,Red Bull Salzburg,1,1,1 - 1,UEFA Champions League (Group stage),2022-10-11,UEFA Champions League,2022-2023,57.791265338435146,57.69890486871619,57.74508510357567
+Dortmund,Sevilla,1,1,1 - 1,UEFA Champions League (Group stage),2022-10-11,UEFA Champions League,2022-2023,40.62541232352553,42.677134186568146,41.65127325504684
+Shakhtar Donetsk,Real Madrid,1,1,1 - 1,UEFA Champions League (Group stage),2022-10-11,UEFA Champions League,2022-2023,40.810133262963454,66.07731890750759,53.443726085235525
+Atlético Madrid,Club Brugge,0,0,0 - 0,UEFA Champions League (Group stage),2022-10-12,UEFA Champions League,2022-2023,61.97387518142235,24.11267977305713,43.04327747723974
+Napoli,Ajax,4,2,4 - 2,UEFA Champions League (Group stage),2022-10-12,UEFA Champions League,2022-2023,55.851695474336985,34.912257553766985,45.381976514051985
+Rangers,Liverpool,1,7,1 - 7,UEFA Champions League (Group stage),2022-10-12,UEFA Champions League,2022-2023,32.636231692835466,65.8068346747592,49.221533183797334
+Sporting CP,Marseille,0,2,0 - 2,UEFA Champions League (Group stage),2022-10-12,UEFA Champions League,2022-2023,23.0175484892466,62.330122707481195,42.673835598363894
+Tottenham Hotspur,Eintracht Frankfurt,3,2,3 - 2,UEFA Champions League (Group stage),2022-10-12,UEFA Champions League,2022-2023,57.10515899195144,42.578176540440694,49.84166776619607
+Barcelona,Internazionale,3,3,3 - 3,UEFA Champions League (Group stage),2022-10-12,UEFA Champions League,2022-2023,80.9077714738092,56.452038527510226,68.67990500065972
+Viktoria Plzeň,Bayern Munich,2,4,2 - 4,UEFA Champions League (Group stage),2022-10-12,UEFA Champions League,2022-2023,43.53476711967278,74.69982847341338,59.11729779654308
+Bayer Leverkusen,Porto,0,3,0 - 3,UEFA Champions League (Group stage),2022-10-12,UEFA Champions League,2022-2023,62.46206623565114,36.145929542155955,49.30399788890355
+Red Bull Salzburg,Chelsea,1,2,1 - 2,UEFA Champions League (Group stage),2022-10-25,UEFA Champions League,2022-2023,52.62567621058187,65.3582266789814,58.991951444781634
+Sevilla,FC Copenhagen,3,0,3 - 0,UEFA Champions League (Group stage),2022-10-25,UEFA Champions League,2022-2023,59.63187755640586,38.943132339358755,49.28750494788231
+Benfica,Juventus,4,3,4 - 3,UEFA Champions League (Group stage),2022-10-25,UEFA Champions League,2022-2023,66.27523419976251,60.54228790077847,63.408761050270485
+Celtic,Shakhtar Donetsk,1,1,1 - 1,UEFA Champions League (Group stage),2022-10-25,UEFA Champions League,2022-2023,59.10410344372609,48.18577648766328,53.64493996569469
+Dinamo Zagreb,Milan,0,4,0 - 4,UEFA Champions League (Group stage),2022-10-25,UEFA Champions League,2022-2023,49.12917271407837,62.890882702203456,56.01002770814091
+RB Leipzig,Real Madrid,3,2,3 - 2,UEFA Champions League (Group stage),2022-10-25,UEFA Champions League,2022-2023,63.60337775432115,62.50164929410212,63.05251352421163
+Paris Saint-Germain,Maccabi Haifa,7,2,7 - 2,UEFA Champions League (Group stage),2022-10-25,UEFA Champions League,2022-2023,77.31231033117825,53.79997361129436,65.55614197123631
+Dortmund,Manchester City,0,0,0 - 0,UEFA Champions League (Group stage),2022-10-25,UEFA Champions League,2022-2023,38.85736904604829,39.33236574746009,39.09486739675419
+Club Brugge,Porto,0,4,0 - 4,UEFA Champions League (Group stage),2022-10-26,UEFA Champions League,2022-2023,30.749439240005277,56.986409816598496,43.867924528301884
+Internazionale,Viktoria Plzeň,4,0,4 - 0,UEFA Champions League (Group stage),2022-10-26,UEFA Champions League,2022-2023,79.68069666182873,22.7932444913577,51.236970576593215
+Tottenham Hotspur,Sporting CP,1,1,1 - 1,UEFA Champions League (Group stage),2022-10-26,UEFA Champions League,2022-2023,64.53357962791925,41.76012666578704,53.14685314685315
+Barcelona,Bayern Munich,0,3,0 - 3,UEFA Champions League (Group stage),2022-10-26,UEFA Champions League,2022-2023,35.88204248581607,68.20160971104367,52.04182609842987
+Eintracht Frankfurt,Marseille,2,1,2 - 1,UEFA Champions League (Group stage),2022-10-26,UEFA Champions League,2022-2023,54.46628842855258,45.93613933236575,50.201213880459164
+Napoli,Rangers,3,0,3 - 0,UEFA Champions League (Group stage),2022-10-26,UEFA Champions League,2022-2023,74.25122047763557,28.433830320622775,51.34252539912917
+Atlético Madrid,Bayer Leverkusen,2,2,2 - 2,UEFA Champions League (Group stage),2022-10-26,UEFA Champions League,2022-2023,61.525267185644545,50.26388705633989,55.89457712099222
+Ajax,Liverpool,0,3,0 - 3,UEFA Champions League (Group stage),2022-10-26,UEFA Champions League,2022-2023,33.59282227206755,62.099221533183794,47.84602190262567
+Porto,Atlético Madrid,2,1,2 - 1,UEFA Champions League (Group stage),2022-11-01,UEFA Champions League,2022-2023,68.57105158991952,42.76289747987861,55.66697453489907
+Bayer Leverkusen,Club Brugge,0,0,0 - 0,UEFA Champions League (Group stage),2022-11-01,UEFA Champions League,2022-2023,51.09513128381053,24.00052777411268,37.54782952896161
+Sporting CP,Eintracht Frankfurt,1,2,1 - 2,UEFA Champions League (Group stage),2022-11-01,UEFA Champions League,2022-2023,44.56392663939834,38.1382768175221,41.35110172846022
+Liverpool,Napoli,2,0,2 - 0,UEFA Champions League (Group stage),2022-11-01,UEFA Champions League,2022-2023,57.26349122575538,36.343844834410874,46.80366803008313
+Rangers,Ajax,1,3,1 - 3,UEFA Champions League (Group stage),2022-11-01,UEFA Champions League,2022-2023,33.38171262699564,63.58358622509566,48.482649426045654
+Marseille,Tottenham Hotspur,1,2,1 - 2,UEFA Champions League (Group stage),2022-11-01,UEFA Champions League,2022-2023,56.155165589127854,40.19659585697322,48.17588072305054
+Viktoria Plzeň,Barcelona,2,4,2 - 4,UEFA Champions League (Group stage),2022-11-01,UEFA Champions League,2022-2023,48.53542683731363,61.624224831772,55.07982583454282
+Bayern Munich,Internazionale,2,0,2 - 0,UEFA Champions League (Group stage),2022-11-01,UEFA Champions League,2022-2023,71.52658662092624,37.41258741258741,54.469587016756826
+Real Madrid,Celtic,5,1,5 - 1,UEFA Champions League (Group stage),2022-11-02,UEFA Champions League,2022-2023,70.6953423934556,52.0979020979021,61.396622245678856
+Shakhtar Donetsk,RB Leipzig,0,4,0 - 4,UEFA Champions League (Group stage),2022-11-02,UEFA Champions League,2022-2023,16.55891278532788,62.58741258741259,39.57316268637023
+Manchester City,Sevilla,3,1,3 - 1,UEFA Champions League (Group stage),2022-11-02,UEFA Champions League,2022-2023,60.16624884549413,19.501253463517614,39.833751154505876
+Chelsea,Dinamo Zagreb,2,1,2 - 1,UEFA Champions League (Group stage),2022-11-02,UEFA Champions League,2022-2023,68.39292782689009,34.872674495316005,51.632801161103046
+FC Copenhagen,Dortmund,1,1,1 - 1,UEFA Champions League (Group stage),2022-11-02,UEFA Champions League,2022-2023,73.56511413115186,55.086423010951314,64.32576857105158
+Milan,Red Bull Salzburg,4,0,4 - 0,UEFA Champions League (Group stage),2022-11-02,UEFA Champions League,2022-2023,58.92597968069666,56.37946958701676,57.65272463385671
+Juventus,Paris Saint-Germain,1,2,1 - 2,UEFA Champions League (Group stage),2022-11-02,UEFA Champions League,2022-2023,61.43950389233408,43.29726876896688,52.36838633065048
+Maccabi Haifa,Benfica,1,6,1 - 6,UEFA Champions League (Group stage),2022-11-02,UEFA Champions League,2022-2023,44.16149887848001,81.79179311254784,62.97664599551392
+Paris Saint-Germain,Bayern Munich,0,1,0 - 1,"UEFA Champions League (Round of 16), Leg 1 of 2Aggregate: Paris S-G 0:3 Bayern MunichBayern Munich won on aggregate score over two legs(Leg 2: Bayern Munich 2:0 Paris S-G)",2023-02-14,UEFA Champions League,2022-2023,42.7892861855126,74.51510753397545,58.65219685974402
+Milan,Tottenham Hotspur,1,0,1 - 0,"UEFA Champions League (Round of 16), Leg 1 of 2Aggregate: Milan 1:0 TottenhamMilan won on aggregate score over two legs(Leg 2: Tottenham 0:0 Milan)",2023-02-14,UEFA Champions League,2022-2023,52.30241456656551,40.83652196859744,46.56946826758147
+Club Brugge,Benfica,0,2,0 - 2,"UEFA Champions League (Round of 16), Leg 1 of 2Aggregate: Club Brugge 1:7 BenficaBenfica won on aggregate score over two legs(Leg 2: Benfica 5:1 Club Brugge)",2023-02-15,UEFA Champions League,2022-2023,38.89035492809078,70.43145533711572,54.66090513260325
+Dortmund,Chelsea,1,0,1 - 0,"UEFA Champions League (Round of 16), Leg 1 of 2Aggregate: Dortmund 1:2 ChelseaChelsea won on aggregate score over two legs(Leg 2: Chelsea 2:0 Dortmund)",2023-02-15,UEFA Champions League,2022-2023,60.990895896556275,75.69600211109645,68.34344900382636
+Liverpool,Real Madrid,2,5,2 - 5,"UEFA Champions League (Round of 16), Leg 1 of 2Aggregate: Liverpool 2:6 Real MadridReal Madrid won on aggregate score over two legs(Leg 2: Real Madrid 1:0 Liverpool)",2023-02-21,UEFA Champions League,2022-2023,60.14645731626864,62.54782952896161,61.34714342261512
+Eintracht Frankfurt,Napoli,0,2,0 - 2,"UEFA Champions League (Round of 16), Leg 1 of 2Aggregate: Eint Frankfurt 0:5 NapoliNapoli won on aggregate score over two legs(Leg 2: Napoli 3:0 Eint Frankfurt)",2023-02-21,UEFA Champions League,2022-2023,37.14210317983903,72.82623037340018,54.9841667766196
+RB Leipzig,Manchester City,1,1,1 - 1,"UEFA Champions League (Round of 16), Leg 1 of 2Aggregate: RB Leipzig 1:8 Manchester CityManchester City won on aggregate score over two legs(Leg 2: Manchester City 7:0 RB Leipzig)",2023-02-22,UEFA Champions League,2022-2023,45.37537933764349,46.99168755772529,46.18353344768439
+Internazionale,Porto,1,0,1 - 0,"UEFA Champions League (Round of 16), Leg 1 of 2Aggregate: Inter 1:0 PortoInter won on aggregate score over two legs(Leg 2: Porto 0:0 Inter)",2023-02-22,UEFA Champions League,2022-2023,50.84443858028764,53.87254255178783,52.35849056603773
+Benfica,Club Brugge,5,1,5 - 1,"UEFA Champions League (Round of 16), Leg 2 of 2Aggregate: Benfica 7:1 Club BruggeBenfica won on aggregate score over two legs(Leg 1: Club Brugge 0:2 Benfica)",2023-03-07,UEFA Champions League,2022-2023,68.66341205963847,37.808417997097244,53.235915028367856
+Chelsea,Dortmund,2,0,2 - 0,"UEFA Champions League (Round of 16), Leg 2 of 2Aggregate: Chelsea 2:1 DortmundChelsea won on aggregate score over two legs(Leg 1: Dortmund 1:0 Chelsea)",2023-03-07,UEFA Champions League,2022-2023,58.94577120992216,40.697981264019,49.82187623697058
+Tottenham Hotspur,Milan,0,0,0 - 0,"UEFA Champions League (Round of 16), Leg 2 of 2Aggregate: Tottenham 0:1 MilanMilan won on aggregate score over two legs(Leg 1: Milan 1:0 Tottenham)",2023-03-08,UEFA Champions League,2022-2023,41.02784008444386,53.984694550732286,47.50626731758807
+Bayern Munich,Paris Saint-Germain,2,0,2 - 0,"UEFA Champions League (Round of 16), Leg 2 of 2Aggregate: Bayern Munich 3:0 Paris S-GBayern Munich won on aggregate score over two legs(Leg 1: Paris S-G 0:1 Bayern Munich)",2023-03-08,UEFA Champions League,2022-2023,75.53107270088402,50.7058978757092,63.11848528829661
+Manchester City,RB Leipzig,7,0,7 - 0,"UEFA Champions League (Round of 16), Leg 2 of 2Aggregate: Manchester City 8:1 RB LeipzigManchester City won on aggregate score over two legs(Leg 1: RB Leipzig 1:1 Manchester City)",2023-03-14,UEFA Champions League,2022-2023,68.01029159519726,27.82029291463254,47.9152922549149
+Porto,Internazionale,0,0,0 - 0,"UEFA Champions League (Round of 16), Leg 2 of 2Aggregate: Porto 0:1 InterInter won on aggregate score over two legs(Leg 1: Inter 1:0 Porto)",2023-03-14,UEFA Champions League,2022-2023,63.867264810661034,40.810133262963454,52.338699036812244
+Napoli,Eintracht Frankfurt,3,0,3 - 0,"UEFA Champions League (Round of 16), Leg 2 of 2Aggregate: Napoli 5:0 Eint FrankfurtNapoli won on aggregate score over two legs(Leg 1: Eint Frankfurt 0:2 Napoli)",2023-03-15,UEFA Champions League,2022-2023,69.15160311386727,44.23406781897348,56.69283546642038
+Real Madrid,Liverpool,1,0,1 - 0,"UEFA Champions League (Round of 16), Leg 2 of 2Aggregate: Real Madrid 6:2 LiverpoolReal Madrid won on aggregate score over two legs(Leg 1: Liverpool 2:5 Real Madrid)",2023-03-15,UEFA Champions League,2022-2023,61.663807890222984,50.14513788098694,55.90447288560496
+Benfica,Internazionale,0,2,0 - 2,"UEFA Champions League (Quarter-finals), Leg 1 of 2Aggregate: Benfica 3:5 InterInter won on aggregate score over two legs(Leg 2: Inter 3:3 Benfica)",2023-04-11,UEFA Champions League,2022-2023,55.620794300039584,52.92914632537274,54.27497031270616
+Manchester City,Bayern Munich,3,0,3 - 0,"UEFA Champions League (Quarter-finals), Leg 1 of 2Aggregate: Manchester City 4:1 Bayern MunichManchester City won on aggregate score over two legs(Leg 2: Bayern Munich 1:1 Manchester City)",2023-04-11,UEFA Champions League,2022-2023,67.46932312970048,57.586752869771736,62.528037999736114
+Real Madrid,Chelsea,2,0,2 - 0,"UEFA Champions League (Quarter-finals), Leg 1 of 2Aggregate: Real Madrid 4:0 ChelseaReal Madrid won on aggregate score over two legs(Leg 2: Chelsea 0:2 Real Madrid)",2023-04-12,UEFA Champions League,2022-2023,78.29528961604433,33.0254651009368,55.660377358490564
+Milan,Napoli,1,0,1 - 0,"UEFA Champions League (Quarter-finals), Leg 1 of 2Aggregate: Milan 2:1 NapoliMilan won on aggregate score over two legs(Leg 2: Napoli 1:1 Milan)",2023-04-12,UEFA Champions League,2022-2023,57.659321810265205,58.92597968069666,58.292650745480934
+Chelsea,Real Madrid,0,2,0 - 2,"UEFA Champions League (Quarter-finals), Leg 2 of 2Aggregate: Chelsea 0:4 Real MadridReal Madrid won on aggregate score over two legs(Leg 1: Real Madrid 2:0 Chelsea)",2023-04-18,UEFA Champions League,2022-2023,68.77556405858293,65.13392268109249,66.9547433698377
+Napoli,Milan,1,1,1 - 1,"UEFA Champions League (Quarter-finals), Leg 2 of 2Aggregate: Napoli 1:2 MilanMilan won on aggregate score over two legs(Leg 1: Milan 1:0 Napoli)",2023-04-18,UEFA Champions League,2022-2023,61.41971236310859,50.91041034437261,56.1650613537406
+Bayern Munich,Manchester City,1,1,1 - 1,"UEFA Champions League (Quarter-finals), Leg 2 of 2Aggregate: Bayern Munich 1:4 Manchester CityManchester City won on aggregate score over two legs(Leg 1: Manchester City 3:0 Bayern Munich)",2023-04-19,UEFA Champions League,2022-2023,66.92175748779522,42.53199630558121,54.72687689668821
+Internazionale,Benfica,3,3,3 - 3,"UEFA Champions League (Quarter-finals), Leg 2 of 2Aggregate: Inter 5:3 BenficaInter won on aggregate score over two legs(Leg 1: Benfica 0:2 Inter)",2023-04-19,UEFA Champions League,2022-2023,58.622509565905794,58.70167568280776,58.662092624356774
+Real Madrid,Manchester City,1,1,1 - 1,"UEFA Champions League (Semi-finals), Leg 1 of 2Aggregate: Real Madrid 1:5 Manchester CityManchester City won on aggregate score over two legs(Leg 2: Manchester City 4:0 Real Madrid)",2023-05-09,UEFA Champions League,2022-2023,43.9635835862251,51.97255574614065,47.96806966618287
+Milan,Internazionale,0,2,0 - 2,"UEFA Champions League (Semi-finals), Leg 1 of 2Aggregate: Milan 0:3 InterInter won on aggregate score over two legs(Leg 2: Inter 1:0 Milan)",2023-05-10,UEFA Champions League,2022-2023,52.57289879931389,61.68359941944848,57.12824910938119
+Internazionale,Milan,1,0,1 - 0,"UEFA Champions League (Semi-finals), Leg 2 of 2Aggregate: Inter 3:0 MilanInter won on aggregate score over two legs(Leg 1: Milan 0:2 Inter)",2023-05-16,UEFA Champions League,2022-2023,38.540704578440426,36.39662224567885,37.46866341205964
+Manchester City,Real Madrid,4,0,4 - 0,"UEFA Champions League (Semi-finals), Leg 2 of 2Aggregate: Manchester City 5:1 Real MadridManchester City won on aggregate score over two legs(Leg 1: Real Madrid 1:1 Manchester City)",2023-05-17,UEFA Champions League,2022-2023,73.69046048291331,26.316136693495185,50.003298588204245
+Manchester City,Internazionale,1,0,1 - 0,UEFA Champions League (Final),2023-06-10,UEFA Champions League,2022-2023,49.67014117957514,46.31877556405858,47.99445837181686
+Young Boys,RB Leipzig,1,3,1 - 3,UEFA Champions League (Group stage),2023-09-19,UEFA Champions League,2023-2024,44.53094075735585,71.86304261775959,58.19699168755772
+Milan,Newcastle United,0,0,0 - 0,UEFA Champions League (Group stage),2023-09-19,UEFA Champions League,2023-2024,59.22944979548753,28.308483968861328,43.76896688217443
+Manchester City,Red Star,3,1,3 - 1,UEFA Champions League (Group stage),2023-09-19,UEFA Champions League,2023-2024,75.77516822799842,34.97822931785196,55.376698772925195
+Barcelona,Antwerp,5,0,5 - 0,UEFA Champions League (Group stage),2023-09-19,UEFA Champions League,2023-2024,69.5078506399261,16.76342525399129,43.135637946958695
+Paris Saint-Germain,Dortmund,2,0,2 - 0,UEFA Champions League (Group stage),2023-09-19,UEFA Champions League,2023-2024,72.89879931389365,45.573294629898406,59.23604697189603
+Lazio,Atlético Madrid,1,1,1 - 1,UEFA Champions League (Group stage),2023-09-19,UEFA Champions League,2023-2024,60.79957778070985,47.48647578836258,54.14302678453622
+Feyenoord,Celtic,2,0,2 - 0,UEFA Champions League (Group stage),2023-09-19,UEFA Champions League,2023-2024,54.81593877820293,33.46087874389761,44.13840876105027
+Shakhtar Donetsk,Porto,1,3,1 - 3,UEFA Champions League (Group stage),2023-09-19,UEFA Champions League,2023-2024,31.244227470642564,58.33223380393191,44.78823063728724
+Real Madrid,Union Berlin,1,0,1 - 0,UEFA Champions League (Group stage),2023-09-20,UEFA Champions League,2023-2024,60.20583190394511,22.443594141707347,41.32471302282623
+Galatasaray,FC Copenhagen,2,2,2 - 2,UEFA Champions League (Group stage),2023-09-20,UEFA Champions League,2023-2024,63.81448739939306,41.1597836126138,52.487135506003426
+Benfica,Red Bull Salzburg,0,2,0 - 2,UEFA Champions League (Group stage),2023-09-20,UEFA Champions League,2023-2024,64.13774904340941,65.47037867792585,64.80406386066764
+Braga,Napoli,1,2,1 - 2,UEFA Champions League (Group stage),2023-09-20,UEFA Champions League,2023-2024,57.74508510357567,61.61103047895501,59.67805779126534
+Arsenal,PSV Eindhoven,4,0,4 - 0,UEFA Champions League (Group stage),2023-09-20,UEFA Champions League,2023-2024,69.13181158464177,51.33922681092493,60.23551919778335
+Real Sociedad,Internazionale,1,1,1 - 1,UEFA Champions League (Group stage),2023-09-20,UEFA Champions League,2023-2024,43.22469982847341,25.524475524475523,34.37458767647447
+Sevilla,Lens,1,1,1 - 1,UEFA Champions League (Group stage),2023-09-20,UEFA Champions League,2023-2024,54.49927431059506,53.16664467607864,53.83295949333685
+Bayern Munich,Manchester United,4,3,4 - 3,UEFA Champions League (Group stage),2023-09-20,UEFA Champions League,2023-2024,68.10265206491621,56.47842723314421,62.29053964903021
+Red Bull Salzburg,Real Sociedad,0,2,0 - 2,UEFA Champions League (Group stage),2023-10-03,UEFA Champions League,2023-2024,39.72159915556142,64.34885868848133,52.035228922021375
+Union Berlin,Braga,2,3,2 - 3,UEFA Champions League (Group stage),2023-10-03,UEFA Champions League,2023-2024,55.46246206623565,50.118749175352946,52.790605620794295
+Manchester United,Galatasaray,2,3,2 - 3,UEFA Champions League (Group stage),2023-10-03,UEFA Champions League,2023-2024,62.29713682543871,62.798522232484494,62.5478295289616
+FC Copenhagen,Bayern Munich,1,2,1 - 2,UEFA Champions League (Group stage),2023-10-03,UEFA Champions League,2023-2024,51.45797598627787,71.69151603113868,61.574746008708274
+PSV Eindhoven,Sevilla,2,2,2 - 2,UEFA Champions League (Group stage),2023-10-03,UEFA Champions League,2023-2024,74.27760918326956,45.00593745876765,59.641773321018604
+Internazionale,Benfica,1,0,1 - 0,UEFA Champions League (Group stage),2023-10-03,UEFA Champions League,2023-2024,74.71962000263888,37.9007784668162,56.310199234727534
+Napoli,Real Madrid,2,3,2 - 3,UEFA Champions League (Group stage),2023-10-03,UEFA Champions League,2023-2024,59.21625544267054,64.38844174693232,61.80234859480143
+Lens,Arsenal,2,1,2 - 1,UEFA Champions League (Group stage),2023-10-03,UEFA Champions League,2023-2024,40.67159255838501,46.76738355983639,43.7194880591107
+Atlético Madrid,Feyenoord,3,2,3 - 2,UEFA Champions League (Group stage),2023-10-04,UEFA Champions League,2023-2024,32.47789945903153,68.45889959097507,50.4683995250033
+Antwerp,Shakhtar Donetsk,2,3,2 - 3,UEFA Champions League (Group stage),2023-10-04,UEFA Champions League,2023-2024,53.120464441219156,59.0645203852751,56.09249241324713
+Porto,Barcelona,0,1,0 - 1,UEFA Champions League (Group stage),2023-10-04,UEFA Champions League,2023-2024,50.63992611162423,51.00277081409157,50.8213484628579
+Newcastle United,Paris Saint-Germain,4,1,4 - 1,UEFA Champions League (Group stage),2023-10-04,UEFA Champions League,2023-2024,49.36007388837577,49.221533183797334,49.29080353608656
+Celtic,Lazio,1,2,1 - 2,UEFA Champions League (Group stage),2023-10-04,UEFA Champions League,2023-2024,50.67950917007521,48.94445177464045,49.81198047235783
+Dortmund,Milan,0,0,0 - 0,UEFA Champions League (Group stage),2023-10-04,UEFA Champions League,2023-2024,54.78295289616044,58.714870035624756,56.7489114658926
+Red Star,Young Boys,2,2,2 - 2,UEFA Champions League (Group stage),2023-10-04,UEFA Champions League,2023-2024,73.20886660509302,59.222852619079035,66.21585961208604
+RB Leipzig,Manchester City,1,3,1 - 3,UEFA Champions League (Group stage),2023-10-04,UEFA Champions League,2023-2024,31.362976645995513,61.967278005013846,46.66512732550468
+Internazionale,Red Bull Salzburg,2,1,2 - 1,UEFA Champions League (Group stage),2023-10-24,UEFA Champions League,2023-2024,52.39477503628447,43.19171394643093,47.7932444913577
+Galatasaray,Bayern Munich,1,3,1 - 3,UEFA Champions League (Group stage),2023-10-24,UEFA Champions League,2023-2024,68.32035888639662,75.66961340546246,71.99498614592954
+Braga,Real Madrid,1,2,1 - 2,UEFA Champions League (Group stage),2023-10-24,UEFA Champions League,2023-2024,54.050666314817256,49.13576989048687,51.59321810265206
+Manchester United,FC Copenhagen,1,0,1 - 0,UEFA Champions League (Group stage),2023-10-24,UEFA Champions League,2023-2024,60.90513260324581,50.989576461274574,55.94735453226019
+Benfica,Real Sociedad,0,1,0 - 1,UEFA Champions League (Group stage),2023-10-24,UEFA Champions League,2023-2024,30.986937590711175,61.80894577120992,46.39794168096055
+Lens,PSV Eindhoven,1,1,1 - 1,UEFA Champions League (Group stage),2023-10-24,UEFA Champions League,2023-2024,54.07705502045125,41.1531864362053,47.61512072832828
+Union Berlin,Napoli,0,1,0 - 1,UEFA Champions League (Group stage),2023-10-24,UEFA Champions League,2023-2024,26.639398337511544,39.43132339358755,33.03536086554955
+Sevilla,Arsenal,1,2,1 - 2,UEFA Champions League (Group stage),2023-10-24,UEFA Champions League,2023-2024,44.517746404538855,64.36205304129832,54.43989972291859
+Feyenoord,Lazio,3,1,3 - 1,UEFA Champions League (Group stage),2023-10-25,UEFA Champions League,2023-2024,66.60509302018735,40.51326032458108,53.55917667238422
+Barcelona,Shakhtar Donetsk,2,1,2 - 1,UEFA Champions League (Group stage),2023-10-25,UEFA Champions League,2023-2024,69.5342393455601,47.618419316532524,58.57632933104631
+Celtic,Atlético Madrid,2,2,2 - 2,UEFA Champions League (Group stage),2023-10-25,UEFA Champions League,2023-2024,46.543079561947486,62.16519329726877,54.35413642960813
+Newcastle United,Dortmund,0,1,0 - 1,UEFA Champions League (Group stage),2023-10-25,UEFA Champions League,2023-2024,43.369837709460356,57.48119804723578,50.42551787834807
+Antwerp,Porto,1,4,1 - 4,UEFA Champions League (Group stage),2023-10-25,UEFA Champions League,2023-2024,44.32642828869244,65.30544926771341,54.81593877820293
+Young Boys,Manchester City,1,3,1 - 3,UEFA Champions League (Group stage),2023-10-25,UEFA Champions League,2023-2024,35.473017548489246,72.21929014381844,53.84615384615384
+RB Leipzig,Red Star,3,1,3 - 1,UEFA Champions League (Group stage),2023-10-25,UEFA Champions League,2023-2024,69.81791793112548,50.27708140915688,60.04749967014118
+Paris Saint-Germain,Milan,3,0,3 - 0,UEFA Champions League (Group stage),2023-10-25,UEFA Champions League,2023-2024,48.23855389893126,42.44623301227075,45.342393455601005
+Dortmund,Newcastle United,2,0,2 - 0,UEFA Champions League (Group stage),2023-11-07,UEFA Champions League,2023-2024,64.3950389233408,41.707349254519066,53.05119408892993
+Shakhtar Donetsk,Barcelona,1,0,1 - 0,UEFA Champions League (Group stage),2023-11-07,UEFA Champions League,2023-2024,35.99419448476052,60.50270484232748,48.248449663544
+Porto,Antwerp,2,0,2 - 0,UEFA Champions League (Group stage),2023-11-07,UEFA Champions League,2023-2024,65.04815938778204,25.339754585037603,45.193956986409816
+Manchester City,Young Boys,3,0,3 - 0,UEFA Champions League (Group stage),2023-11-07,UEFA Champions League,2023-2024,70.78770286317456,23.248449663543997,47.018076263359276
+Red Star,RB Leipzig,1,2,1 - 2,UEFA Champions League (Group stage),2023-11-07,UEFA Champions League,2023-2024,53.30518538065708,71.8630426177596,62.58411399920834
+Lazio,Feyenoord,1,0,1 - 0,UEFA Champions League (Group stage),2023-11-07,UEFA Champions League,2023-2024,49.66354400316665,51.36561551655891,50.514579759862784
+Atlético Madrid,Celtic,6,0,6 - 0,UEFA Champions League (Group stage),2023-11-07,UEFA Champions League,2023-2024,77.6817522100541,24.36337247658002,51.02256234331706
+Milan,Paris Saint-Germain,2,1,2 - 1,UEFA Champions League (Group stage),2023-11-07,UEFA Champions League,2023-2024,62.363108589523684,60.087082728592165,61.22509565905793
+Napoli,Union Berlin,1,1,1 - 1,UEFA Champions League (Group stage),2023-11-08,UEFA Champions League,2023-2024,67.2054360733606,46.11426309539517,56.65984958437788
+Real Sociedad,Benfica,3,1,3 - 1,UEFA Champions League (Group stage),2023-11-08,UEFA Champions League,2023-2024,75.78836258081542,44.451774640453884,60.12006861063465
+Arsenal,Sevilla,2,0,2 - 0,UEFA Champions League (Group stage),2023-11-08,UEFA Champions League,2023-2024,59.46694814619343,16.710647842723315,38.088797994458375
+Bayern Munich,Galatasaray,2,1,2 - 1,UEFA Champions League (Group stage),2023-11-08,UEFA Champions League,2023-2024,67.34397677793905,35.31468531468531,51.32933104631218
+Real Madrid,Braga,3,0,3 - 0,UEFA Champions League (Group stage),2023-11-08,UEFA Champions League,2023-2024,77.28592162554426,52.619079034173375,64.95250032985882
+FC Copenhagen,Manchester United,4,3,4 - 3,UEFA Champions League (Group stage),2023-11-08,UEFA Champions League,2023-2024,58.20029027576197,49.40625412323526,53.803272199498615
+Red Bull Salzburg,Internazionale,0,1,0 - 1,UEFA Champions League (Group stage),2023-11-08,UEFA Champions League,2023-2024,57.56036416413775,55.92426441483045,56.7423142894841
+PSV Eindhoven,Lens,1,0,1 - 0,UEFA Champions League (Group stage),2023-11-08,UEFA Champions League,2023-2024,56.623565114131154,46.92571579364032,51.77464045388574
+Lazio,Celtic,2,0,2 - 0,UEFA Champions League (Group stage),2023-11-28,UEFA Champions League,2023-2024,71.92241720543608,31.079298060430137,51.500857632933105
+Shakhtar Donetsk,Antwerp,1,0,1 - 0,UEFA Champions League (Group stage),2023-11-28,UEFA Champions League,2023-2024,50.29687293838237,63.31310199234728,56.804987465364825
+Manchester City,RB Leipzig,3,2,3 - 2,UEFA Champions League (Group stage),2023-11-28,UEFA Champions League,2023-2024,64.04538857369046,32.642828869243964,48.34410872146721
+Young Boys,Red Star,2,0,2 - 0,UEFA Champions League (Group stage),2023-11-28,UEFA Champions League,2023-2024,69.47486475788362,63.15476975854334,66.31481725821348
+Paris Saint-Germain,Newcastle United,1,1,1 - 1,UEFA Champions League (Group stage),2023-11-28,UEFA Champions League,2023-2024,75.29357435017812,38.74521704710384,57.01939569864098
+Barcelona,Porto,2,1,2 - 1,UEFA Champions League (Group stage),2023-11-28,UEFA Champions League,2023-2024,74.1786515371421,50.90381316796411,62.54123235255311
+Milan,Dortmund,1,3,1 - 3,UEFA Champions League (Group stage),2023-11-28,UEFA Champions League,2023-2024,64.60614856841272,56.95342393455601,60.77978625148437
+Feyenoord,Atlético Madrid,1,3,1 - 3,UEFA Champions League (Group stage),2023-11-28,UEFA Champions League,2023-2024,67.22522760258609,52.53991291727141,59.88257025992875
+Sevilla,PSV Eindhoven,2,3,2 - 3,UEFA Champions League (Group stage),2023-11-29,UEFA Champions League,2023-2024,52.37498350705898,62.020055416281835,57.19751946167041
+Benfica,Internazionale,3,3,3 - 3,UEFA Champions League (Group stage),2023-11-29,UEFA Champions League,2023-2024,57.09856181554295,59.427365087742444,58.2629634516427
+Arsenal,Lens,6,0,6 - 0,UEFA Champions League (Group stage),2023-11-29,UEFA Champions League,2023-2024,57.329462989840344,32.05568016888772,44.69257157936403
+Braga,Union Berlin,1,1,1 - 1,UEFA Champions League (Group stage),2023-11-29,UEFA Champions League,2023-2024,58.3718168623829,46.22641509433962,52.29911597836126
+Galatasaray,Manchester United,3,3,3 - 3,UEFA Champions League (Group stage),2023-11-29,UEFA Champions League,2023-2024,60.74020319303338,61.65061353740599,61.195408365219684
+Real Madrid,Napoli,4,2,4 - 2,UEFA Champions League (Group stage),2023-11-29,UEFA Champions League,2023-2024,77.1737696265998,60.67423142894841,68.92400052777411
+Bayern Munich,FC Copenhagen,0,0,0 - 0,UEFA Champions League (Group stage),2023-11-29,UEFA Champions League,2023-2024,46.52988520913049,37.33342129568545,41.93165325240797
+Real Sociedad,Red Bull Salzburg,0,0,0 - 0,UEFA Champions League (Group stage),2023-11-29,UEFA Champions League,2023-2024,62.086027180366806,36.77266130096319,49.429344240665
+Lens,Sevilla,2,1,2 - 1,UEFA Champions League (Group stage),2023-12-12,UEFA Champions League,2023-2024,30.393191713946432,35.802876368914106,33.09803404143027
+PSV Eindhoven,Arsenal,1,1,1 - 1,UEFA Champions League (Group stage),2023-12-12,UEFA Champions League,2023-2024,60.54228790077846,44.412191582002905,52.47723974139068
+Manchester United,Bayern Munich,0,1,0 - 1,UEFA Champions League (Group stage),2023-12-12,UEFA Champions League,2023-2024,41.885473017548485,58.22667898139596,50.05607599947223
+Red Bull Salzburg,Benfica,1,3,1 - 3,UEFA Champions League (Group stage),2023-12-12,UEFA Champions League,2023-2024,76.2699564586357,85.45982319567224,80.86488982715397
+Union Berlin,Real Madrid,2,3,2 - 3,UEFA Champions League (Group stage),2023-12-12,UEFA Champions League,2023-2024,38.85077186963979,66.34780314025598,52.59928750494788
+Napoli,Braga,2,0,2 - 0,UEFA Champions League (Group stage),2023-12-12,UEFA Champions League,2023-2024,58.23327615780446,57.289879931389365,57.76157804459692
+FC Copenhagen,Galatasaray,1,0,1 - 0,UEFA Champions League (Group stage),2023-12-12,UEFA Champions League,2023-2024,60.924924132471304,63.022826230373404,61.97387518142236
+Internazionale,Real Sociedad,0,0,0 - 0,UEFA Champions League (Group stage),2023-12-12,UEFA Champions League,2023-2024,29.627919250560762,30.18867924528302,29.90829924792189
+Red Star,Manchester City,2,3,2 - 3,UEFA Champions League (Group stage),2023-12-13,UEFA Champions League,2023-2024,45.05871487003562,37.683071645335794,41.37089325768571
+RB Leipzig,Young Boys,2,1,2 - 1,UEFA Champions League (Group stage),2023-12-13,UEFA Champions League,2023-2024,56.67634252539913,60.918326956062806,58.79733474073097
+Porto,Shakhtar Donetsk,5,3,5 - 3,UEFA Champions League (Group stage),2023-12-13,UEFA Champions League,2023-2024,73.43317060298192,53.951708668689804,63.69243963583586
+Celtic,Feyenoord,2,1,2 - 1,UEFA Champions League (Group stage),2023-12-13,UEFA Champions League,2023-2024,58.8336192109777,60.4631217838765,59.6483704974271
+Newcastle United,Milan,1,2,1 - 2,UEFA Champions League (Group stage),2023-12-13,UEFA Champions League,2023-2024,67.06689536878216,59.36799050006597,63.217442934424064
+Antwerp,Barcelona,3,2,3 - 2,UEFA Champions League (Group stage),2023-12-13,UEFA Champions League,2023-2024,61.69679377226547,60.10687425781765,60.90183401504156
+Dortmund,Paris Saint-Germain,1,1,1 - 1,UEFA Champions League (Group stage),2023-12-13,UEFA Champions League,2023-2024,59.55271143950389,69.97625016492941,64.76448080221665
+Atlético Madrid,Lazio,2,0,2 - 0,UEFA Champions League (Group stage),2023-12-13,UEFA Champions League,2023-2024,44.12851299643753,34.52962132207415,39.32906715925584
+FC Copenhagen,Manchester City,1,3,1 - 3,"UEFA Champions League (Round of 16), Leg 1 of 2Aggregate: FC Copenhagen 2:6 Manchester CityManchester City won on aggregate score over two legs(Leg 2: Manchester City 3:1 FC Copenhagen)",2024-02-13,UEFA Champions League,2023-2024,23.51893389629239,68.604037471962,46.06148568412719
+RB Leipzig,Real Madrid,0,1,0 - 1,"UEFA Champions League (Round of 16), Leg 1 of 2Aggregate: RB Leipzig 1:2 Real MadridReal Madrid won on aggregate score over two legs(Leg 2: Real Madrid 1:1 RB Leipzig)",2024-02-13,UEFA Champions League,2023-2024,63.78809869375907,65.02836785855654,64.4082332761578
+Paris Saint-Germain,Real Sociedad,2,0,2 - 0,"UEFA Champions League (Round of 16), Leg 1 of 2Aggregate: Paris S-G 4:1 Real SociedadParis S-G won on aggregate score over two legs(Leg 2: Real Sociedad 1:2 Paris S-G)",2024-02-14,UEFA Champions League,2023-2024,66.39398337511545,43.18511677002243,54.78955007256894
+Lazio,Bayern Munich,1,0,1 - 0,"UEFA Champions League (Round of 16), Leg 1 of 2Aggregate: Lazio 1:3 Bayern MunichBayern Munich won on aggregate score over two legs(Leg 2: Bayern Munich 3:0 Lazio)",2024-02-14,UEFA Champions League,2023-2024,42.809077714738095,58.70167568280776,50.75537669877293
+Internazionale,Atlético Madrid,1,0,1 - 0,"UEFA Champions League (Round of 16), Leg 1 of 2Aggregate: Inter 2:2 Atlético MadridAtlético Madrid won on penalty kicks following extra time(Leg 2: Atlético Madrid 2:1 Inter)",2024-02-20,UEFA Champions League,2023-2024,58.45758015569336,38.40216387386199,48.42987201477767
+PSV Eindhoven,Dortmund,1,1,1 - 1,"UEFA Champions League (Round of 16), Leg 1 of 2Aggregate: PSV Eindhoven 1:3 DortmundDortmund won on aggregate score over two legs(Leg 2: Dortmund 2:0 PSV Eindhoven)",2024-02-20,UEFA Champions League,2023-2024,53.720807494392396,46.96529885209131,50.343053173241856
+Porto,Arsenal,1,0,1 - 0,"UEFA Champions League (Round of 16), Leg 1 of 2Aggregate: Porto 1:1 ArsenalArsenal won on penalty kicks following extra time(Leg 2: Arsenal 1:0 Porto)",2024-02-21,UEFA Champions League,2023-2024,26.2765536350442,29.403615252671855,27.840084443858025
+Napoli,Barcelona,1,1,1 - 1,"UEFA Champions League (Round of 16), Leg 1 of 2Aggregate: Napoli 2:4 BarcelonaBarcelona won on aggregate score over two legs(Leg 2: Barcelona 3:1 Napoli)",2024-02-21,UEFA Champions League,2023-2024,37.841403879139726,50.50138540704578,44.171394643092754
+Bayern Munich,Lazio,3,0,3 - 0,"UEFA Champions League (Round of 16), Leg 2 of 2Aggregate: Bayern Munich 3:1 LazioBayern Munich won on aggregate score over two legs(Leg 1: Lazio 1:0 Bayern Munich)",2024-03-05,UEFA Champions League,2023-2024,80.9275630030347,26.164401636099747,53.54598231956723
+Real Sociedad,Paris Saint-Germain,1,2,1 - 2,"UEFA Champions League (Round of 16), Leg 2 of 2Aggregate: Real Sociedad 1:4 Paris S-GParis S-G won on aggregate score over two legs(Leg 1: Paris S-G 2:0 Real Sociedad)",2024-03-05,UEFA Champions League,2023-2024,42.50560759994722,57.085367462725955,49.79548753133659
+Manchester City,FC Copenhagen,3,1,3 - 1,"UEFA Champions League (Round of 16), Leg 2 of 2Aggregate: Manchester City 6:2 FC CopenhagenManchester City won on aggregate score over two legs(Leg 1: FC Copenhagen 1:3 Manchester City)",2024-03-06,UEFA Champions League,2023-2024,41.3906847869112,48.99722918590843,45.193956986409816
+Real Madrid,RB Leipzig,1,1,1 - 1,"UEFA Champions League (Round of 16), Leg 2 of 2Aggregate: Real Madrid 2:1 RB LeipzigReal Madrid won on aggregate score over two legs(Leg 1: RB Leipzig 0:1 Real Madrid)",2024-03-06,UEFA Champions League,2023-2024,45.22364428024805,55.713154769758546,50.4683995250033
+Arsenal,Porto,1,0,1 - 0,"UEFA Champions League (Round of 16), Leg 2 of 2Aggregate: Arsenal 1:1 PortoArsenal won on penalty kicks following extra time(Leg 1: Porto 1:0 Arsenal)",2024-03-12,UEFA Champions League,2023-2024,60.324581079298056,45.69864098165985,53.01161103047895
+Barcelona,Napoli,3,1,3 - 1,"UEFA Champions League (Round of 16), Leg 2 of 2Aggregate: Barcelona 4:2 NapoliBarcelona won on aggregate score over two legs(Leg 1: Napoli 1:1 Barcelona)",2024-03-12,UEFA Champions League,2023-2024,81.8445705238158,61.94748647578836,71.89602849980209
+Atlético Madrid,Internazionale,2,1,2 - 1,"UEFA Champions League (Round of 16), Leg 2 of 2Aggregate: Atlético Madrid 2:2 InterAtlético Madrid won on penalty kicks following extra time(Leg 1: Inter 1:0 Atlético Madrid)",2024-03-13,UEFA Champions League,2023-2024,74.56788494524343,57.989180630690065,66.27853278796675
+Dortmund,PSV Eindhoven,2,0,2 - 0,"UEFA Champions League (Round of 16), Leg 2 of 2Aggregate: Dortmund 3:1 PSV EindhovenDortmund won on aggregate score over two legs(Leg 1: PSV Eindhoven 1:1 Dortmund)",2024-03-13,UEFA Champions League,2023-2024,61.637419184589,71.81686238290011,66.72714078374456
+Arsenal,Bayern Munich,2,2,2 - 2,"UEFA Champions League (Quarter-finals), Leg 1 of 2Aggregate: Arsenal 2:3 Bayern MunichBayern Munich won on aggregate score over two legs(Leg 2: Bayern Munich 1:0 Arsenal)",2024-04-09,UEFA Champions League,2023-2024,55.39649030215068,45.29621322074152,50.3463517614461
+Real Madrid,Manchester City,3,3,3 - 3,"UEFA Champions League (Quarter-finals), Leg 1 of 2Aggregate: Real Madrid 4:4 Manchester CityReal Madrid won on penalty kicks following extra time(Leg 2: Manchester City 1:1 Real Madrid)",2024-04-09,UEFA Champions League,2023-2024,53.79337643488587,55.521836653912125,54.657606544399
+Atlético Madrid,Dortmund,2,1,2 - 1,"UEFA Champions League (Quarter-finals), Leg 1 of 2Aggregate: Atlético Madrid 4:5 DortmundDortmund won on aggregate score over two legs(Leg 2: Dortmund 4:2 Atlético Madrid)",2024-04-10,UEFA Champions League,2023-2024,59.46694814619343,51.93956986409817,55.703259005145796
+Paris Saint-Germain,Barcelona,2,3,2 - 3,"UEFA Champions League (Quarter-finals), Leg 1 of 2Aggregate: Paris S-G 6:4 BarcelonaParis S-G won on aggregate score over two legs(Leg 2: Barcelona 1:4 Paris S-G)",2024-04-10,UEFA Champions League,2023-2024,67.53529489378546,68.3401504156221,67.93772265470378
+Barcelona,Paris Saint-Germain,1,4,1 - 4,"UEFA Champions League (Quarter-finals), Leg 2 of 2Aggregate: Barcelona 4:6 Paris S-GParis S-G won on aggregate score over two legs(Leg 1: Paris S-G 2:3 Barcelona)",2024-04-16,UEFA Champions League,2023-2024,39.05528433830321,72.34463649557989,55.69996041694155
+Dortmund,Atlético Madrid,4,2,4 - 2,"UEFA Champions League (Quarter-finals), Leg 2 of 2Aggregate: Dortmund 5:4 Atlético MadridDortmund won on aggregate score over two legs(Leg 1: Atlético Madrid 2:1 Dortmund)",2024-04-16,UEFA Champions League,2023-2024,63.45164269692571,54.33434490038264,58.892993798654174
+Manchester City,Real Madrid,1,1,1 - 1,"UEFA Champions League (Quarter-finals), Leg 2 of 2Aggregate: Manchester City 4:4 Real MadridReal Madrid won on penalty kicks following extra time(Leg 1: Real Madrid 3:3 Manchester City)",2024-04-17,UEFA Champions League,2023-2024,75.10885341074021,48.50903813167964,61.80894577120992
+Bayern Munich,Arsenal,1,0,1 - 0,"UEFA Champions League (Quarter-finals), Leg 2 of 2Aggregate: Bayern Munich 3:2 ArsenalBayern Munich won on aggregate score over two legs(Leg 1: Arsenal 2:2 Bayern Munich)",2024-04-17,UEFA Champions League,2023-2024,53.77358490566038,36.65391212561024,45.21374851563531
+Bayern Munich,Real Madrid,2,2,2 - 2,"UEFA Champions League (Semi-finals), Leg 1 of 2Aggregate: Bayern Munich 3:4 Real MadridReal Madrid won on aggregate score over two legs(Leg 2: Real Madrid 2:1 Bayern Munich)",2024-04-30,UEFA Champions League,2023-2024,58.055152394775035,42.96740994854203,50.51128117165853
+Dortmund,Paris Saint-Germain,1,0,1 - 0,"UEFA Champions League (Semi-finals), Leg 1 of 2Aggregate: Dortmund 2:0 Paris S-GDortmund won on aggregate score over two legs(Leg 2: Paris S-G 0:1 Dortmund)",2024-05-01,UEFA Champions League,2023-2024,65.56933632405331,69.758543343449,67.66393983375116
+Paris Saint-Germain,Dortmund,0,1,0 - 1,"UEFA Champions League (Semi-finals), Leg 2 of 2Aggregate: Paris S-G 0:2 DortmundDortmund won on aggregate score over two legs(Leg 1: Dortmund 1:0 Paris S-G)",2024-05-07,UEFA Champions League,2023-2024,70.12138804591635,46.41113603377754,58.26626203984694
+Real Madrid,Bayern Munich,2,1,2 - 1,"UEFA Champions League (Semi-finals), Leg 2 of 2Aggregate: Real Madrid 4:3 Bayern MunichReal Madrid won on aggregate score over two legs(Leg 1: Bayern Munich 2:2 Real Madrid)",2024-05-08,UEFA Champions League,2023-2024,68.85473017548489,44.22087346615648,56.53780182082069
+Dortmund,Real Madrid,0,2,0 - 2,UEFA Champions League (Final),2024-06-01,UEFA Champions League,2023-2024,52.37498350705898,55.52843383032062,53.951708668689804
+Young Boys,Aston Villa,0,3,0 - 3,UEFA Champions League (League phase),2024-09-17,UEFA Champions League,2024-2025,44.174693231297006,53.793376434885865,48.984034833091435
+Juventus,PSV Eindhoven,3,1,3 - 1,UEFA Champions League (League phase),2024-09-17,UEFA Champions League,2024-2025,62.059638474732814,56.01002770814092,59.034833091436866
+Sporting CP,Lille,2,0,2 - 0,UEFA Champions League (League phase),2024-09-17,UEFA Champions League,2024-2025,51.65589127853279,30.215067950917007,40.9354796147249
+Real Madrid,Stuttgart,3,1,3 - 1,UEFA Champions League (League phase),2024-09-17,UEFA Champions League,2024-2025,76.99564586357039,62.57421823459559,69.78493204908298
+Milan,Liverpool,1,3,1 - 3,UEFA Champions League (League phase),2024-09-17,UEFA Champions League,2024-2025,43.66011347143423,75.57065575933501,59.61538461538462
+Bayern Munich,Dinamo Zagreb,9,2,9 - 2,UEFA Champions League (League phase),2024-09-17,UEFA Champions League,2024-2025,77.72793244491358,45.43475392531996,61.581343185116765
+Sparta Prague,Red Bull Salzburg,3,0,3 - 0,UEFA Champions League (League phase),2024-09-18,UEFA Champions League,2024-2025,60.67423142894841,46.82016097110437,53.747196200026394
+Bologna,Shakhtar Donetsk,0,0,0 - 0,UEFA Champions League (League phase),2024-09-18,UEFA Champions League,2024-2025,50.448607995777806,26.0390552843383,38.243831640058055
+Celtic,Slovan Bratislava,5,1,5 - 1,UEFA Champions League (League phase),2024-09-18,UEFA Champions League,2024-2025,74.45573294629898,35.776487663280115,55.116110304789544
+Manchester City,Internazionale,0,0,0 - 0,UEFA Champions League (League phase),2024-09-18,UEFA Champions League,2024-2025,55.152394775036285,34.1931653252408,44.67278005013854
+Club Brugge,Dortmund,0,3,0 - 3,UEFA Champions League (League phase),2024-09-18,UEFA Champions League,2024-2025,42.3208866605093,64.38844174693232,53.35466420372081
+Paris Saint-Germain,Girona,1,0,1 - 0,UEFA Champions League (League phase),2024-09-18,UEFA Champions League,2024-2025,65.55614197123631,27.411267977305716,46.483704974271014
+Red Star,Benfica,1,2,1 - 2,UEFA Champions League (League phase),2024-09-19,UEFA Champions League,2024-2025,59.43396226415094,56.06940229581739,57.751682279984166
+Feyenoord,Bayer Leverkusen,0,4,0 - 4,UEFA Champions League (League phase),2024-09-19,UEFA Champions League,2024-2025,37.913972819633194,58.90618815147117,48.410080485552186
+Monaco,Barcelona,2,1,2 - 1,UEFA Champions League (League phase),2024-09-19,UEFA Champions League,2024-2025,53.54268373136298,22.615120728328275,38.078902229845625
+Atalanta,Arsenal,0,0,0 - 0,UEFA Champions League (League phase),2024-09-19,UEFA Champions League,2024-2025,21.262699564586356,19.17799181950125,20.220345692043804
+Brest,Sturm Graz,2,1,2 - 1,UEFA Champions League (League phase),2024-09-19,UEFA Champions League,2024-2025,44.8871882834147,22.133526850507984,33.510357566961346
+Atlético Madrid,RB Leipzig,2,1,2 - 1,UEFA Champions League (League phase),2024-09-19,UEFA Champions League,2024-2025,64.34885868848133,30.894577120992214,47.62171790473677
+Stuttgart,Sparta Prague,1,1,1 - 1,UEFA Champions League (League phase),2024-10-01,UEFA Champions League,2024-2025,66.69745348990632,47.82952896160443,57.263491225755374
+Red Bull Salzburg,Brest,0,4,0 - 4,UEFA Champions League (League phase),2024-10-01,UEFA Champions League,2024-2025,71.48040638606676,67.77279324449135,69.62659981527906
+Arsenal,Paris Saint-Germain,2,0,2 - 0,UEFA Champions League (League phase),2024-10-01,UEFA Champions League,2024-2025,52.882966090513264,41.91845889959097,47.40071249505212
+Barcelona,Young Boys,5,0,5 - 0,UEFA Champions League (League phase),2024-10-01,UEFA Champions League,2024-2025,70.26652592690328,36.03377754321151,53.15015173505739
+Dortmund,Celtic,7,1,7 - 1,UEFA Champions League (League phase),2024-10-01,UEFA Champions League,2024-2025,69.79152922549149,46.07468003694419,57.93310463121784
+Internazionale,Red Star,4,0,4 - 0,UEFA Champions League (League phase),2024-10-01,UEFA Champions League,2024-2025,57.77147380920966,39.38514315872806,48.57830848396886
+Slovan Bratislava,Manchester City,0,4,0 - 4,UEFA Champions League (League phase),2024-10-01,UEFA Champions League,2024-2025,31.666446760786382,76.14461010687425,53.90552843383032
+PSV Eindhoven,Sporting CP,1,1,1 - 1,UEFA Champions League (League phase),2024-10-01,UEFA Champions League,2024-2025,72.48977437656683,54.26177595988917,63.375775168228
+Bayer Leverkusen,Milan,1,0,1 - 0,UEFA Champions League (League phase),2024-10-01,UEFA Champions League,2024-2025,58.94577120992215,51.37221269296741,55.158991951444776
+Girona,Feyenoord,2,3,2 - 3,UEFA Champions League (League phase),2024-10-02,UEFA Champions League,2024-2025,49.95381976514052,45.59308615912389,47.77345296213221
+Shakhtar Donetsk,Atalanta,0,3,0 - 3,UEFA Champions League (League phase),2024-10-02,UEFA Champions League,2024-2025,33.309143686502175,75.30676870299511,54.30795619474864
+Liverpool,Bologna,2,0,2 - 0,UEFA Champions League (League phase),2024-10-02,UEFA Champions League,2024-2025,58.68188415358227,34.199762501649296,46.44082332761578
+Aston Villa,Bayern Munich,1,0,1 - 0,UEFA Champions League (League phase),2024-10-02,UEFA Champions League,2024-2025,39.74139068478691,69.08563134978229,54.4135110172846
+Benfica,Atlético Madrid,4,0,4 - 0,UEFA Champions League (League phase),2024-10-02,UEFA Champions League,2024-2025,79.77965430795619,26.13801293046576,52.95883361921098
+Dinamo Zagreb,Monaco,2,2,2 - 2,UEFA Champions League (League phase),2024-10-02,UEFA Champions League,2024-2025,54.16941549017021,56.22773452962132,55.19857500989576
+RB Leipzig,Juventus,2,3,2 - 3,UEFA Champions League (League phase),2024-10-02,UEFA Champions League,2024-2025,61.564850244095524,72.14012402691648,66.85248713550601
+Sturm Graz,Club Brugge,0,1,0 - 1,UEFA Champions League (League phase),2024-10-02,UEFA Champions League,2024-2025,18.122443594141707,44.93336851827418,31.527906056207943
+Lille,Real Madrid,1,0,1 - 0,UEFA Champions League (League phase),2024-10-02,UEFA Champions League,2024-2025,33.88309803404143,61.1690196595857,47.52605884681357
+Monaco,Red Star,5,1,5 - 1,UEFA Champions League (League phase),2024-10-22,UEFA Champions League,2024-2025,71.76408497163214,29.60812772133527,50.686106346483704
+Milan,Club Brugge,3,1,3 - 1,UEFA Champions League (League phase),2024-10-22,UEFA Champions League,2024-2025,59.137089325768564,34.846285789682014,46.991687557725285
+Arsenal,Shakhtar Donetsk,1,0,1 - 0,UEFA Champions League (League phase),2024-10-22,UEFA Champions League,2024-2025,47.46668425913709,30.986937590711175,39.22681092492413
+Aston Villa,Bologna,2,0,2 - 0,UEFA Champions League (League phase),2024-10-22,UEFA Champions League,2024-2025,58.754453094075735,45.751418392927825,52.25293574350178
+Sturm Graz,Sporting CP,0,2,0 - 2,UEFA Champions League (League phase),2024-10-22,UEFA Champions League,2024-2025,43.81184852882966,53.714210317983905,48.76302942340678
+Juventus,Stuttgart,0,1,0 - 1,UEFA Champions League (League phase),2024-10-22,UEFA Champions League,2024-2025,32.89352157276686,65.49676738355984,49.19514447816335
+Real Madrid,Dortmund,5,2,5 - 2,UEFA Champions League (League phase),2024-10-22,UEFA Champions League,2024-2025,68.8349386462594,61.35374059902362,65.09433962264151
+Girona,Slovan Bratislava,2,0,2 - 0,UEFA Champions League (League phase),2024-10-22,UEFA Champions League,2024-2025,60.383955666974536,35.28829660905133,47.83612613801293
+Paris Saint-Germain,PSV Eindhoven,1,1,1 - 1,UEFA Champions League (League phase),2024-10-22,UEFA Champions League,2024-2025,76.43488586884813,47.9086950785064,62.17179047367726
+Brest,Bayer Leverkusen,1,1,1 - 1,UEFA Champions League (League phase),2024-10-23,UEFA Champions League,2024-2025,39.59625280379997,42.76289747987861,41.179575141839294
+Atalanta,Celtic,0,0,0 - 0,UEFA Champions League (League phase),2024-10-23,UEFA Champions League,2024-2025,66.50613537405991,29.845626072041167,48.17588072305054
+Benfica,Feyenoord,1,3,1 - 3,UEFA Champions League (League phase),2024-10-23,UEFA Champions League,2024-2025,54.987465364823855,63.359282227206755,59.173373796015305
+Manchester City,Sparta Prague,5,0,5 - 0,UEFA Champions League (League phase),2024-10-23,UEFA Champions League,2024-2025,70.91304921493601,22.733869903681224,46.82345955930862
+Red Bull Salzburg,Dinamo Zagreb,0,2,0 - 2,UEFA Champions League (League phase),2024-10-23,UEFA Champions League,2024-2025,46.85314685314685,62.42248317720016,54.6378150151735
+Young Boys,Internazionale,0,1,0 - 1,UEFA Champions League (League phase),2024-10-23,UEFA Champions League,2024-2025,43.06636759466948,71.8432510885341,57.45480934160179
+Barcelona,Bayern Munich,4,1,4 - 1,UEFA Champions League (League phase),2024-10-23,UEFA Champions League,2024-2025,61.84852882966091,59.10410344372609,60.4763161366935
+Atlético Madrid,Lille,1,3,1 - 3,UEFA Champions League (League phase),2024-10-23,UEFA Champions League,2024-2025,56.60377358490566,34.885868848133,45.74482121651933
+RB Leipzig,Liverpool,0,1,0 - 1,UEFA Champions League (League phase),2024-10-23,UEFA Champions League,2024-2025,42.380261248185775,65.69468267581476,54.03747196200027
+Slovan Bratislava,Dinamo Zagreb,1,4,1 - 4,UEFA Champions League (League phase),2024-11-05,UEFA Champions League,2024-2025,48.845494128512996,71.57276685578573,60.20913049214936
+PSV Eindhoven,Girona,4,0,4 - 0,UEFA Champions League (League phase),2024-11-05,UEFA Champions League,2024-2025,71.10436733078242,31.83797334740731,51.47117033909487
+Sporting CP,Manchester City,4,1,4 - 1,UEFA Champions League (League phase),2024-11-05,UEFA Champions League,2024-2025,48.77292518801953,57.725293574350175,53.24910938118485
+Liverpool,Bayer Leverkusen,4,0,4 - 0,UEFA Champions League (League phase),2024-11-05,UEFA Champions League,2024-2025,72.35123367198838,43.712890882702204,58.03206227734529
+Celtic,RB Leipzig,3,1,3 - 1,UEFA Champions League (League phase),2024-11-05,UEFA Champions League,2024-2025,64.33566433566433,33.05845098297929,48.697057659321814
+Bologna,Monaco,0,1,0 - 1,UEFA Champions League (League phase),2024-11-05,UEFA Champions League,2024-2025,41.43026784536219,51.655891278532785,46.543079561947486
+Real Madrid,Milan,1,3,1 - 3,UEFA Champions League (League phase),2024-11-05,UEFA Champions League,2024-2025,70.78770286317456,54.756564190526454,62.77213352685051
+Lille,Juventus,1,1,1 - 1,UEFA Champions League (League phase),2024-11-05,UEFA Champions League,2024-2025,43.013590183401504,48.25834542815675,45.63596780577913
+Dortmund,Sturm Graz,1,0,1 - 0,UEFA Champions League (League phase),2024-11-05,UEFA Champions League,2024-2025,64.24990104235387,24.917535294893785,44.583718168623825
+Club Brugge,Aston Villa,1,0,1 - 0,UEFA Champions League (League phase),2024-11-06,UEFA Champions League,2024-2025,40.77055020451247,23.571711307560363,32.17113075603642
+Shakhtar Donetsk,Young Boys,2,1,2 - 1,UEFA Champions League (League phase),2024-11-06,UEFA Champions League,2024-2025,58.87979944583718,40.077846681620265,49.478823063728726
+Paris Saint-Germain,Atlético Madrid,1,2,1 - 2,UEFA Champions League (League phase),2024-11-06,UEFA Champions League,2024-2025,74.29740071249505,48.152790605620794,61.22509565905792
+Bayern Munich,Benfica,1,0,1 - 0,UEFA Champions League (League phase),2024-11-06,UEFA Champions League,2024-2025,70.76131415754057,31.71922417205436,51.24026916479747
+Red Star,Barcelona,2,5,2 - 5,UEFA Champions League (League phase),2024-11-06,UEFA Champions League,2024-2025,28.341469850903813,71.59255838501122,49.96701411795752
+Sparta Prague,Brest,1,2,1 - 2,UEFA Champions League (League phase),2024-11-06,UEFA Champions League,2024-2025,27.64876632801161,70.57659321810266,49.11267977305714
+Feyenoord,Red Bull Salzburg,1,3,1 - 3,UEFA Champions League (League phase),2024-11-06,UEFA Champions League,2024-2025,55.660377358490564,49.0763953028104,52.36838633065048
+Stuttgart,Atalanta,0,2,0 - 2,UEFA Champions League (League phase),2024-11-06,UEFA Champions League,2024-2025,41.450059374587674,62.70616176276554,52.07811056867661
+Internazionale,Arsenal,1,0,1 - 0,UEFA Champions League (League phase),2024-11-06,UEFA Champions League,2024-2025,26.632801161103046,59.57250296872939,43.102652064916214
+Slovan Bratislava,Milan,2,3,2 - 3,UEFA Champions League (League phase),2024-11-26,UEFA Champions League,2024-2025,44.187887584114,73.69046048291331,58.93917403351365
+Sparta Prague,Atlético Madrid,0,6,0 - 6,UEFA Champions League (League phase),2024-11-26,UEFA Champions League,2024-2025,20.965826626203985,76.85050798258345,48.908167304393714
+Manchester City,Feyenoord,3,3,3 - 3,UEFA Champions League (League phase),2024-11-26,UEFA Champions League,2024-2025,63.51761446101069,50.877424462330126,57.19751946167041
+Sporting CP,Arsenal,1,5,1 - 5,UEFA Champions League (League phase),2024-11-26,UEFA Champions League,2024-2025,57.850639926111626,65.99815279060562,61.92439635835862
+Barcelona,Brest,3,0,3 - 0,UEFA Champions League (League phase),2024-11-26,UEFA Champions League,2024-2025,70.61617627655363,28.73730043541364,49.67673835598364
+Bayer Leverkusen,Red Bull Salzburg,5,0,5 - 0,UEFA Champions League (League phase),2024-11-26,UEFA Champions League,2024-2025,80.65707877028632,41.32471302282623,60.990895896556275
+Internazionale,RB Leipzig,1,0,1 - 0,UEFA Champions League (League phase),2024-11-26,UEFA Champions League,2024-2025,49.94722258873202,37.11571447420504,43.53146853146853
+Bayern Munich,Paris Saint-Germain,1,0,1 - 0,UEFA Champions League (League phase),2024-11-26,UEFA Champions League,2024-2025,78.49320490829925,47.84272331442143,63.167964111360334
+Young Boys,Atalanta,1,6,1 - 6,UEFA Champions League (League phase),2024-11-26,UEFA Champions League,2024-2025,36.15252671856445,72.91199366671064,54.53226019263755
+Red Star,Stuttgart,5,1,5 - 1,UEFA Champions League (League phase),2024-11-27,UEFA Champions League,2024-2025,69.40889299379866,49.914236706689536,59.6615648502441
+Sturm Graz,Girona,1,0,1 - 0,UEFA Champions League (League phase),2024-11-27,UEFA Champions League,2024-2025,36.238290011874916,51.97255574614065,44.10542287900778
+Aston Villa,Juventus,0,0,0 - 0,UEFA Champions League (League phase),2024-11-27,UEFA Champions League,2024-2025,39.5368782161235,44.47816334608787,42.00752078110568
+Liverpool,Real Madrid,2,0,2 - 0,UEFA Champions League (League phase),2024-11-27,UEFA Champions League,2024-2025,68.69639794168096,40.38791397281963,54.542155957250294
+Celtic,Club Brugge,1,1,1 - 1,UEFA Champions League (League phase),2024-11-27,UEFA Champions League,2024-2025,38.8309803404143,37.98654176012666,38.408761050270485
+PSV Eindhoven,Shakhtar Donetsk,3,2,3 - 2,UEFA Champions League (League phase),2024-11-27,UEFA Champions League,2024-2025,81.33658794036153,45.56010027708141,63.44834410872147
+Bologna,Lille,1,2,1 - 2,UEFA Champions League (League phase),2024-11-27,UEFA Champions League,2024-2025,58.23327615780446,64.93600738883758,61.584641773321025
+Dinamo Zagreb,Dortmund,0,3,0 - 3,UEFA Champions League (League phase),2024-11-27,UEFA Champions League,2024-2025,28.493204908299248,76.0522496371553,52.27272727272727
+Monaco,Benfica,2,3,2 - 3,UEFA Champions League (League phase),2024-11-27,UEFA Champions League,2024-2025,67.4429344240665,74.21163741918458,70.82728592162553
+Dinamo Zagreb,Celtic,0,0,0 - 0,UEFA Champions League (League phase),2024-12-10,UEFA Champions League,2024-2025,35.76329331046312,49.15556141971236,42.45942736508774
+Girona,Liverpool,0,1,0 - 1,UEFA Champions League (League phase),2024-12-10,UEFA Champions League,2024-2025,48.548621190130625,52.341997625016496,50.44530940757356
+Bayer Leverkusen,Internazionale,1,0,1 - 0,UEFA Champions League (League phase),2024-12-10,UEFA Champions League,2024-2025,45.13788098693759,22.892202137485157,34.01504156221137
+Brest,PSV Eindhoven,1,0,1 - 0,UEFA Champions League (League phase),2024-12-10,UEFA Champions League,2024-2025,55.69996041694155,68.34015041562212,62.020055416281835
+Club Brugge,Sporting CP,2,1,2 - 1,UEFA Champions League (League phase),2024-12-10,UEFA Champions League,2024-2025,37.94695870167568,29.58833619210978,33.76764744689273
+Red Bull Salzburg,Paris Saint-Germain,0,3,0 - 3,UEFA Champions League (League phase),2024-12-10,UEFA Champions League,2024-2025,38.435149755904476,85.67093284074416,62.05304129832432
+RB Leipzig,Aston Villa,2,3,2 - 3,UEFA Champions League (League phase),2024-12-10,UEFA Champions League,2024-2025,70.81409156880855,71.88283414698509,71.34846285789682
+Atalanta,Real Madrid,2,3,2 - 3,UEFA Champions League (League phase),2024-12-10,UEFA Champions League,2024-2025,75.05607599947223,60.57527378282095,67.81567489114659
+Shakhtar Donetsk,Bayern Munich,1,5,1 - 5,UEFA Champions League (League phase),2024-12-10,UEFA Champions League,2024-2025,55.43607336060166,79.83902889563267,67.63755112811717
+Lille,Sturm Graz,3,2,3 - 2,UEFA Champions League (League phase),2024-12-11,UEFA Champions League,2024-2025,74.00052777411268,57.87702863174562,65.93877820292914
+Atlético Madrid,Slovan Bratislava,3,1,3 - 1,UEFA Champions League (League phase),2024-12-11,UEFA Champions League,2024-2025,73.7036548357303,32.41192769494656,53.05779126533844
+Arsenal,Monaco,3,0,3 - 0,UEFA Champions League (League phase),2024-12-11,UEFA Champions League,2024-2025,72.7998416677662,34.91225755376699,53.8560496107666
+Benfica,Bologna,0,0,0 - 0,UEFA Champions League (League phase),2024-12-11,UEFA Champions League,2024-2025,54.71038395566698,40.95527114395039,47.832827549808684
+Milan,Red Star,2,1,2 - 1,UEFA Champions League (League phase),2024-12-11,UEFA Champions League,2024-2025,66.27523419976251,41.713946430927564,53.994590315345036
+Juventus,Manchester City,2,0,2 - 0,UEFA Champions League (League phase),2024-12-11,UEFA Champions League,2024-2025,44.92677134186568,46.56287109117297,45.74482121651933
+Stuttgart,Young Boys,5,1,5 - 1,UEFA Champions League (League phase),2024-12-11,UEFA Champions League,2024-2025,68.72938382372345,32.15463781501518,50.442010819369315
+Dortmund,Barcelona,2,3,2 - 3,UEFA Champions League (League phase),2024-12-11,UEFA Champions League,2024-2025,63.57698904868716,66.9679377226547,65.27246338567093
+Feyenoord,Sparta Prague,4,2,4 - 2,UEFA Champions League (League phase),2024-12-11,UEFA Champions League,2024-2025,59.302018735981,40.282359150283675,49.79218894313234
+Atalanta,Sturm Graz,5,0,5 - 0,UEFA Champions League (League phase),2025-01-21,UEFA Champions League,2024-2025,79.69389101464573,45.47433698377095,62.58411399920834
+Monaco,Aston Villa,1,0,1 - 0,UEFA Champions League (League phase),2025-01-21,UEFA Champions League,2024-2025,58.53014909618683,47.80973743237894,53.169943264282885
+Liverpool,Lille,2,1,2 - 1,UEFA Champions League (League phase),2025-01-21,UEFA Champions League,2024-2025,65.37142103179839,29.495975722390817,47.4336983770946
+Benfica,Barcelona,4,5,4 - 5,UEFA Champions League (League phase),2025-01-21,UEFA Champions League,2024-2025,57.07217310990896,78.79007784668161,67.93112547829529
+Bologna,Dortmund,2,1,2 - 1,UEFA Champions League (League phase),2025-01-21,UEFA Champions League,2024-2025,60.97770154373928,23.835598363900253,42.406649953819766
+Club Brugge,Juventus,0,0,0 - 0,UEFA Champions League (League phase),2025-01-21,UEFA Champions League,2024-2025,28.79007784668162,30.822008180498745,29.806043013590184
+Red Star,PSV Eindhoven,2,3,2 - 3,UEFA Champions League (League phase),2025-01-21,UEFA Champions League,2024-2025,74.77899459031535,47.86251484364692,61.320754716981135
+Slovan Bratislava,Stuttgart,1,3,1 - 3,UEFA Champions League (League phase),2025-01-21,UEFA Champions League,2024-2025,44.76843910806175,76.69217574877952,60.73030742842063
+Atlético Madrid,Bayer Leverkusen,2,1,2 - 1,UEFA Champions League (League phase),2025-01-21,UEFA Champions League,2024-2025,29.944583718168627,42.8024805383296,36.37353212824911
+RB Leipzig,Sporting CP,2,1,2 - 1,UEFA Champions League (League phase),2025-01-22,UEFA Champions League,2024-2025,56.80828605356907,57.6725161630822,57.240401108325635
+Shakhtar Donetsk,Brest,2,0,2 - 0,UEFA Champions League (League phase),2025-01-22,UEFA Champions League,2024-2025,43.56775300171527,37.214672120332494,40.39121256102388
+Arsenal,Dinamo Zagreb,3,0,3 - 0,UEFA Champions League (League phase),2025-01-22,UEFA Champions League,2024-2025,66.11690196595856,21.8498482649426,43.983375115450585
+Celtic,Young Boys,1,0,1 - 0,UEFA Champions League (League phase),2025-01-22,UEFA Champions League,2024-2025,56.86106346483705,50.53437128908827,53.69771737696266
+Real Madrid,Red Bull Salzburg,5,1,5 - 1,UEFA Champions League (League phase),2025-01-22,UEFA Champions League,2024-2025,79.61472489774377,47.2027972027972,63.408761050270485
+Milan,Girona,1,0,1 - 0,UEFA Champions League (League phase),2025-01-22,UEFA Champions League,2024-2025,56.66314817258213,42.82886924396358,49.74600870827285
+Paris Saint-Germain,Manchester City,4,2,4 - 2,UEFA Champions League (League phase),2025-01-22,UEFA Champions League,2024-2025,79.7598627787307,50.092360469718955,64.92611162422483
+Sparta Prague,Internazionale,0,1,0 - 1,UEFA Champions League (League phase),2025-01-22,UEFA Champions League,2024-2025,28.902229845626074,43.4885868848133,36.19540836521969
+Feyenoord,Bayern Munich,3,0,3 - 0,UEFA Champions League (League phase),2025-01-22,UEFA Champions League,2024-2025,43.59414170734925,66.18947090645204,54.89180630690065
+Manchester City,Club Brugge,3,1,3 - 1,UEFA Champions League (League phase),2025-01-29,UEFA Champions League,2024-2025,58.417997097242385,32.00290275761974,45.21044992743106
+Aston Villa,Celtic,4,2,4 - 2,UEFA Champions League (League phase),2025-01-29,UEFA Champions League,2024-2025,58.457580155693364,41.12679773057131,49.79218894313234
+Sporting CP,Bologna,1,1,1 - 1,UEFA Champions League (League phase),2025-01-29,UEFA Champions League,2024-2025,45.80419580419581,40.7045784404275,43.254387122311655
+Bayern Munich,Slovan Bratislava,3,1,3 - 1,UEFA Champions League (League phase),2025-01-29,UEFA Champions League,2024-2025,83.83032062277346,59.33500461802348,71.58266262039847
+Juventus,Benfica,0,2,0 - 2,UEFA Champions League (League phase),2025-01-29,UEFA Champions League,2024-2025,61.88811188811189,67.35057395434754,64.61934292122972
+Barcelona,Atalanta,2,2,2 - 2,UEFA Champions League (League phase),2025-01-29,UEFA Champions League,2024-2025,59.34160179443198,43.86462594009764,51.60311386726481
+Dortmund,Shakhtar Donetsk,3,1,3 - 1,UEFA Champions League (League phase),2025-01-29,UEFA Champions League,2024-2025,71.03179839028896,42.02401372212693,56.52790605620794
+Brest,Real Madrid,0,3,0 - 3,UEFA Champions League (League phase),2025-01-29,UEFA Champions League,2024-2025,59.262435677530014,69.83770946035096,64.5500725689405
+PSV Eindhoven,Liverpool,3,2,3 - 2,UEFA Champions League (League phase),2025-01-29,UEFA Champions League,2024-2025,51.25346351761446,40.05805515239478,45.65575933500462
+Internazionale,Monaco,3,0,3 - 0,UEFA Champions League (League phase),2025-01-29,UEFA Champions League,2024-2025,65.95856973215464,19.50785063992611,42.73321018604038
+Bayer Leverkusen,Sparta Prague,2,0,2 - 0,UEFA Champions League (League phase),2025-01-29,UEFA Champions League,2024-2025,57.95619474864758,39.63583586225096,48.796015305449274
+Red Bull Salzburg,Atlético Madrid,1,4,1 - 4,UEFA Champions League (League phase),2025-01-29,UEFA Champions League,2024-2025,58.70167568280776,71.12415886000791,64.91291727140784
+Stuttgart,Paris Saint-Germain,1,4,1 - 4,UEFA Champions League (League phase),2025-01-29,UEFA Champions League,2024-2025,48.06043013590183,72.23248449663544,60.14645731626864
+Lille,Feyenoord,6,1,6 - 1,UEFA Champions League (League phase),2025-01-29,UEFA Champions League,2024-2025,57.80445969125215,26.289747987861194,42.04710383955667
+Sturm Graz,RB Leipzig,1,0,1 - 0,UEFA Champions League (League phase),2025-01-29,UEFA Champions League,2024-2025,45.13788098693759,49.60416941549017,47.37102520121388
+Young Boys,Red Star,0,1,0 - 1,UEFA Champions League (League phase),2025-01-29,UEFA Champions League,2024-2025,41.680960548885075,55.60100277081409,48.64098165984959
+Girona,Arsenal,1,2,1 - 2,UEFA Champions League (League phase),2025-01-29,UEFA Champions League,2024-2025,39.0684786911202,53.32497690988257,46.196727800501385
+Dinamo Zagreb,Milan,2,1,2 - 1,UEFA Champions League (League phase),2025-01-29,UEFA Champions League,2024-2025,55.013854070457846,56.66314817258213,55.83850112151999
+Brest,Paris Saint-Germain,0,3,0 - 3,"UEFA Champions League (Knockout phase play-offs), Leg 1 of 2Aggregate: Brest 0:10 Paris S-GParis S-G won on aggregate score over two legs(Leg 2: Paris S-G 7:0 Brest)",2025-02-11,UEFA Champions League,2024-2025,47.95487531336588,74.05330518538065,61.00409024937326
+Sporting CP,Dortmund,0,3,0 - 3,"UEFA Champions League (Knockout phase play-offs), Leg 1 of 2Aggregate: Sporting CP 0:3 DortmundDortmund won on aggregate score over two legs(Leg 2: Dortmund 0:0 Sporting CP)",2025-02-11,UEFA Champions League,2024-2025,54.855521836653914,67.8783480670273,61.366934951840605
+Manchester City,Real Madrid,2,3,2 - 3,"UEFA Champions League (Knockout phase play-offs), Leg 1 of 2Aggregate: Manchester City 3:6 Real MadridReal Madrid won on aggregate score over two legs(Leg 2: Real Madrid 3:1 Manchester City)",2025-02-11,UEFA Champions League,2024-2025,43.69309935347671,65.3318379733474,54.51246866341206
+Juventus,PSV Eindhoven,2,1,2 - 1,"UEFA Champions League (Knockout phase play-offs), Leg 1 of 2Aggregate: Juventus 3:4 PSV EindhovenPSV Eindhoven won on aggregate score over two legs, after extra time(Leg 2: PSV Eindhoven 3:1 Juventus)",2025-02-11,UEFA Champions League,2024-2025,59.03813167964111,44.53094075735585,51.78453621849848
+Club Brugge,Atalanta,2,1,2 - 1,"UEFA Champions League (Knockout phase play-offs), Leg 1 of 2Aggregate: Club Brugge 5:2 AtalantaClub Brugge won on aggregate score over two legs(Leg 2: Atalanta 1:3 Club Brugge)",2025-02-12,UEFA Champions League,2024-2025,32.563662752342,45.17086686898008,38.86726481066104
+Celtic,Bayern Munich,1,2,1 - 2,"UEFA Champions League (Knockout phase play-offs), Leg 1 of 2Aggregate: Celtic 2:3 Bayern MunichBayern Munich won on aggregate score over two legs(Leg 2: Bayern Munich 1:1 Celtic)",2025-02-12,UEFA Champions League,2024-2025,44.76184193165325,44.504552051721866,44.633196991687555
+Monaco,Benfica,0,1,0 - 1,"UEFA Champions League (Knockout phase play-offs), Leg 1 of 2Aggregate: Monaco 3:4 BenficaBenfica won on aggregate score over two legs(Leg 2: Benfica 3:3 Monaco)",2025-02-12,UEFA Champions League,2024-2025,38.55389893125742,69.56062805119409,54.057263491225754
+Feyenoord,Milan,1,0,1 - 0,"UEFA Champions League (Knockout phase play-offs), Leg 1 of 2Aggregate: Feyenoord 2:1 MilanFeyenoord won on aggregate score over two legs(Leg 2: Milan 1:1 Feyenoord)",2025-02-12,UEFA Champions League,2024-2025,43.18511677002243,54.86211901306241,49.02361789154242
+Milan,Feyenoord,1,1,1 - 1,"UEFA Champions League (Knockout phase play-offs), Leg 2 of 2Aggregate: Milan 1:2 FeyenoordFeyenoord won on aggregate score over two legs(Leg 1: Feyenoord 1:0 Milan)",2025-02-18,UEFA Champions League,2024-2025,68.95368782161235,42.16915160311387,55.561419712363104
+Benfica,Monaco,3,3,3 - 3,"UEFA Champions League (Knockout phase play-offs), Leg 2 of 2Aggregate: Benfica 4:3 MonacoBenfica won on aggregate score over two legs(Leg 1: Monaco 0:1 Benfica)",2025-02-18,UEFA Champions League,2024-2025,53.16004749967014,72.37762237762237,62.76883493864626
+Atalanta,Club Brugge,1,3,1 - 3,"UEFA Champions League (Knockout phase play-offs), Leg 2 of 2Aggregate: Atalanta 2:5 Club BruggeClub Brugge won on aggregate score over two legs(Leg 1: Club Brugge 2:1 Atalanta)",2025-02-18,UEFA Champions League,2024-2025,74.49531600474997,50.57395434753925,62.534635176144604
+Bayern Munich,Celtic,1,1,1 - 1,"UEFA Champions League (Knockout phase play-offs), Leg 2 of 2Aggregate: Bayern Munich 3:2 CelticBayern Munich won on aggregate score over two legs(Leg 1: Celtic 1:2 Bayern Munich)",2025-02-18,UEFA Champions League,2024-2025,65.3384351497559,40.43409420767912,52.88626467871751
+Dortmund,Sporting CP,0,0,0 - 0,"UEFA Champions League (Knockout phase play-offs), Leg 2 of 2Aggregate: Dortmund 3:0 Sporting CPDortmund won on aggregate score over two legs(Leg 1: Sporting CP 0:3 Dortmund)",2025-02-19,UEFA Champions League,2024-2025,56.682939701807626,40.2427760918327,48.46285789682017
+PSV Eindhoven,Juventus,3,1,3 - 1,"UEFA Champions League (Knockout phase play-offs), Leg 2 of 2Aggregate: PSV Eindhoven 4:3 JuventusPSV Eindhoven won on aggregate score over two legs, after extra time(Leg 1: Juventus 2:1 PSV Eindhoven)",2025-02-19,UEFA Champions League,2024-2025,86.34384483441087,74.68663412059638,80.51523947750363
+Real Madrid,Manchester City,3,1,3 - 1,"UEFA Champions League (Knockout phase play-offs), Leg 2 of 2Aggregate: Real Madrid 6:3 Manchester CityReal Madrid won on aggregate score over two legs(Leg 1: Manchester City 2:3 Real Madrid)",2025-02-19,UEFA Champions League,2024-2025,65.25926903285394,43.33025465100937,54.29476184193165
+Paris Saint-Germain,Brest,7,0,7 - 0,"UEFA Champions League (Knockout phase play-offs), Leg 2 of 2Aggregate: Paris S-G 10:0 BrestParis S-G won on aggregate score over two legs(Leg 1: Brest 0:3 Paris S-G)",2025-02-19,UEFA Champions League,2024-2025,78.8428552579496,34.806702731231034,56.82477899459032
+Club Brugge,Aston Villa,1,3,1 - 3,"UEFA Champions League (Round of 16), Leg 1 of 2Aggregate: Club Brugge 1:6 Aston VillaAston Villa won on aggregate score over two legs(Leg 2: Aston Villa 3:0 Club Brugge)",2025-03-04,UEFA Champions League,2024-2025,45.66565509961737,34.53621849848265,40.100936799050004
+PSV Eindhoven,Arsenal,1,7,1 - 7,"UEFA Champions League (Round of 16), Leg 1 of 2Aggregate: PSV Eindhoven 3:9 ArsenalArsenal won on aggregate score over two legs(Leg 2: Arsenal 2:2 PSV Eindhoven)",2025-03-04,UEFA Champions League,2024-2025,42.46602454149624,64.3950389233408,53.43053173241852
+Dortmund,Lille,1,1,1 - 1,"UEFA Champions League (Round of 16), Leg 1 of 2Aggregate: Dortmund 3:2 LilleDortmund won on aggregate score over two legs(Leg 2: Lille 1:2 Dortmund)",2025-03-04,UEFA Champions League,2024-2025,40.150415622113734,43.18511677002243,41.66776619606809
+Real Madrid,Atlético Madrid,2,1,2 - 1,"UEFA Champions League (Round of 16), Leg 1 of 2Aggregate: Real Madrid 2:2 Atlético MadridReal Madrid won on penalty kicks following extra time(Leg 2: Atlético Madrid 1:0 Real Madrid)",2025-03-04,UEFA Champions League,2024-2025,49.914236706689536,31.778598759730837,40.84641773321019
+Feyenoord,Internazionale,0,2,0 - 2,"UEFA Champions League (Round of 16), Leg 1 of 2Aggregate: Feyenoord 1:4 InterInter won on aggregate score over two legs(Leg 2: Inter 2:1 Feyenoord)",2025-03-05,UEFA Champions League,2024-2025,31.25082464705106,52.520121388045915,41.88547301754849
+Benfica,Barcelona,0,1,0 - 1,"UEFA Champions League (Round of 16), Leg 1 of 2Aggregate: Benfica 1:4 BarcelonaBarcelona won on aggregate score over two legs(Leg 2: Barcelona 3:1 Benfica)",2025-03-05,UEFA Champions League,2024-2025,63.29990763953028,45.56669745348991,54.43330254651009
+Bayern Munich,Bayer Leverkusen,3,0,3 - 0,"UEFA Champions League (Round of 16), Leg 1 of 2Aggregate: Bayern Munich 5:0 LeverkusenBayern Munich won on aggregate score over two legs(Leg 2: Leverkusen 0:2 Bayern Munich)",2025-03-05,UEFA Champions League,2024-2025,66.12349914236707,21.440823327615778,43.78216123499142
+Paris Saint-Germain,Liverpool,0,1,0 - 1,"UEFA Champions League (Round of 16), Leg 1 of 2Aggregate: Paris S-G 1:1 LiverpoolParis S-G won on penalty kicks following extra time(Leg 2: Liverpool 0:1 Paris S-G)",2025-03-05,UEFA Champions League,2024-2025,70.78770286317456,28.275498086818843,49.5316004749967
+Barcelona,Benfica,3,1,3 - 1,"UEFA Champions League (Round of 16), Leg 2 of 2Aggregate: Barcelona 4:1 BenficaBarcelona won on aggregate score over two legs(Leg 1: Benfica 0:1 Barcelona)",2025-03-11,UEFA Champions League,2024-2025,74.60087082728592,38.408761050270485,56.5048159387782
+Liverpool,Paris Saint-Germain,0,1,0 - 1,"UEFA Champions League (Round of 16), Leg 2 of 2Aggregate: Liverpool 1:1 Paris S-GParis S-G won on penalty kicks following extra time(Leg 1: Paris S-G 0:1 Liverpool)",2025-03-11,UEFA Champions League,2024-2025,69.91687557725294,83.80393191713947,76.8604037471962
+Bayer Leverkusen,Bayern Munich,0,2,0 - 2,"UEFA Champions League (Round of 16), Leg 2 of 2Aggregate: Leverkusen 0:5 Bayern MunichBayern Munich won on aggregate score over two legs(Leg 1: Bayern Munich 3:0 Leverkusen)",2025-03-11,UEFA Champions League,2024-2025,49.36667106478427,64.67212033249768,57.01939569864098
+Internazionale,Feyenoord,2,1,2 - 1,"UEFA Champions League (Round of 16), Leg 2 of 2Aggregate: Inter 4:1 FeyenoordInter won on aggregate score over two legs(Leg 1: Feyenoord 0:2 Inter)",2025-03-11,UEFA Champions League,2024-2025,61.92769494656287,40.40110832563663,51.164401636099754
+Lille,Dortmund,1,2,1 - 2,"UEFA Champions League (Round of 16), Leg 2 of 2Aggregate: Lille 2:3 DortmundDortmund won on aggregate score over two legs(Leg 1: Dortmund 1:1 Lille)",2025-03-12,UEFA Champions League,2024-2025,53.86594537537934,74.1918458899591,64.02889563266922
+Arsenal,PSV Eindhoven,2,2,2 - 2,"UEFA Champions League (Round of 16), Leg 2 of 2Aggregate: Arsenal 9:3 PSV EindhovenArsenal won on aggregate score over two legs(Leg 1: PSV Eindhoven 1:7 Arsenal)",2025-03-12,UEFA Champions League,2024-2025,41.46985090381317,44.972951576725166,43.22140124026917
+Aston Villa,Club Brugge,3,0,3 - 0,"UEFA Champions League (Round of 16), Leg 2 of 2Aggregate: Aston Villa 6:1 Club BruggeAston Villa won on aggregate score over two legs(Leg 1: Club Brugge 1:3 Aston Villa)",2025-03-12,UEFA Champions League,2024-2025,58.721467212033254,17.64744689272991,38.18445705238158
+Atlético Madrid,Real Madrid,1,0,1 - 0,"UEFA Champions League (Round of 16), Leg 2 of 2Aggregate: Atlético Madrid 2:2 Real MadridReal Madrid won on penalty kicks following extra time(Leg 1: Real Madrid 2:1 Atlético Madrid)",2025-03-12,UEFA Champions League,2024-2025,65.40440691384087,54.618023485948015,60.011215199894444
+Arsenal,Real Madrid,3,0,3 - 0,"UEFA Champions League (Quarter-finals), Leg 1 of 2Aggregate: Arsenal 5:1 Real MadridArsenal won on aggregate score over two legs(Leg 2: Real Madrid 1:2 Arsenal)",2025-04-08,UEFA Champions League,2024-2025,54.73017548489247,34.75392531996306,44.742050402427765
+Bayern Munich,Internazionale,1,2,1 - 2,"UEFA Champions League (Quarter-finals), Leg 1 of 2Aggregate: Bayern Munich 3:4 InterInter won on aggregate score over two legs(Leg 2: Inter 2:2 Bayern Munich)",2025-04-08,UEFA Champions League,2024-2025,58.8336192109777,49.90104235387254,54.36733078242512
+Barcelona,Dortmund,4,0,4 - 0,"UEFA Champions League (Quarter-finals), Leg 1 of 2Aggregate: Barcelona 5:3 DortmundBarcelona won on aggregate score over two legs(Leg 2: Dortmund 3:1 Barcelona)",2025-04-09,UEFA Champions League,2024-2025,73.9609447156617,46.68821744293442,60.324581079298056
+Paris Saint-Germain,Aston Villa,3,1,3 - 1,"UEFA Champions League (Quarter-finals), Leg 1 of 2Aggregate: Paris S-G 5:4 Aston VillaParis S-G won on aggregate score over two legs(Leg 2: Aston Villa 3:2 Paris S-G)",2025-04-09,UEFA Champions League,2024-2025,76.5272463385671,38.09869375907112,57.31297004881911
+Aston Villa,Paris Saint-Germain,3,2,3 - 2,"UEFA Champions League (Quarter-finals), Leg 2 of 2Aggregate: Aston Villa 4:5 Paris S-GParis S-G won on aggregate score over two legs(Leg 1: Paris S-G 3:1 Aston Villa)",2025-04-15,UEFA Champions League,2024-2025,66.59849584377886,61.327351893389626,63.96292386858424
+Dortmund,Barcelona,3,1,3 - 1,"UEFA Champions League (Quarter-finals), Leg 2 of 2Aggregate: Dortmund 3:5 BarcelonaBarcelona won on aggregate score over two legs(Leg 1: Barcelona 4:0 Dortmund)",2025-04-15,UEFA Champions League,2024-2025,69.64639134450455,34.95843778862647,52.30241456656551
+Internazionale,Bayern Munich,2,2,2 - 2,"UEFA Champions League (Quarter-finals), Leg 2 of 2Aggregate: Inter 4:3 Bayern MunichInter won on aggregate score over two legs(Leg 1: Bayern Munich 1:2 Inter)",2025-04-16,UEFA Champions League,2024-2025,52.89616044333026,60.456524607468005,56.676342525399136
+Real Madrid,Arsenal,1,2,1 - 2,"UEFA Champions League (Quarter-finals), Leg 2 of 2Aggregate: Real Madrid 1:5 ArsenalArsenal won on aggregate score over two legs(Leg 1: Arsenal 3:0 Real Madrid)",2025-04-16,UEFA Champions League,2024-2025,51.081936930993535,54.14302678453622,52.61248185776488
+Arsenal,Paris Saint-Germain,0,1,0 - 1,"UEFA Champions League (Semi-finals), Leg 1 of 2Aggregate: Arsenal 1:3 Paris S-GParis S-G won on aggregate score over two legs(Leg 2: Paris S-G 2:1 Arsenal)",2025-04-29,UEFA Champions League,2024-2025,48.40348330914369,44.517746404538855,46.460614856841275
+Barcelona,Internazionale,3,3,3 - 3,"UEFA Champions League (Semi-finals), Leg 1 of 2Aggregate: Barcelona 6:7 InterInter won on aggregate score over two legs, after extra time(Leg 2: Inter 4:3 Barcelona)",2025-04-30,UEFA Champions League,2024-2025,65.90579232088666,40.150415622113734,53.0281039715002
+Internazionale,Barcelona,4,3,4 - 3,"UEFA Champions League (Semi-finals), Leg 2 of 2Aggregate: Inter 7:6 BarcelonaInter won on aggregate score over two legs, after extra time(Leg 1: Barcelona 3:3 Inter)",2025-05-06,UEFA Champions League,2024-2025,68.32695606280512,88.1448739939306,78.23591502836786
+Paris Saint-Germain,Arsenal,2,1,2 - 1,"UEFA Champions League (Semi-finals), Leg 2 of 2Aggregate: Paris S-G 3:1 ArsenalParis S-G won on aggregate score over two legs(Leg 1: Arsenal 0:1 Paris S-G)",2025-05-07,UEFA Champions League,2024-2025,49.33368518274179,58.46417733210186,53.89893125742182
+Paris Saint-Germain,Internazionale,5,0,5 - 0,UEFA Champions League (Final),2025-05-31,UEFA Champions League,2024-2025,63.60337775432115,23.81580683467476,43.70959229449795
