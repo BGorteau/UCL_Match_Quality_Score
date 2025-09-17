@@ -1,4 +1,4 @@
-# UCL_Match_Quality_Score
+# UCL Match Quality Score
 Creation of two metrics to analyze the performances in the UEFA Champions League from the 2020-21 to the 2024-25 season using Football Reference's data.
 
 There are four steps to create these two metrics, as follows:
@@ -24,7 +24,7 @@ Where:
 - $v_{s, t, m}$ is the value of the statistic $s$ for team $t$ in match $m$.
 - $x_{s, i}$ is the value of the statistic $s$ for the team performance $i$.
 - $n$ is the number of team performances from the 2020-21 to 2024-25 Champions Leagues seasons.
-- $\mathbf{1}_{\{X_{s, i} \leq v_{s, t, m}\}}$ is an indicator function that equals 1 if $x_{s, i} \leq v_{s, t, m}$
+- $\mathbf{1}{x_{s, i} \leq v_{s, t, m}}$ is an indicator function that equals 1 if $x_{s, i} \leq v_{s, t, m}$
 else 0
 
 ## 3 - Compute the Team Match Quality Score ($TMQS$) for a team $t$ and a match $m$
