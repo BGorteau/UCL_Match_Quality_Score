@@ -40,5 +40,5 @@ $$
 When the $TMQS$ metric is computed for the two teams of a match, we can compute the Match Quality Score ($MQS$) by computing the mean of the two team's $TMQS$. Here is the formula of this new metric:
 
 $$
-MQS = \frac{TMQS_{\text{Home team}, m} + TMQS_{\text{Away team}, m}}{2}
+MQS_m = \frac{TMQS_{\text{Home team}, m} + TMQS_{\text{Away team}, m}}{2}
 $$
